@@ -133,6 +133,7 @@ function App() {
   useEffect(() => { localStorage.setItem(LS_KEYS.testInputs, JSON.stringify(testInputs)); }, [testInputs]);
   useEffect(() => { localStorage.setItem(LS_KEYS.outputs, JSON.stringify(outputs)); }, [outputs]);
 
+  
   const getAceMode = (lang) => {
     switch (lang) {
       case 'cpp': return 'c_cpp';
@@ -215,14 +216,18 @@ function App() {
 
   const outputGroups = {};
   Object.entries(outputs).forEach(([lang, out]) => {
-    if (out && out.trim()) {
-      outputGroups[out] = outputGroups[out] || [];
-      outputGroups[out].push(lang);
+    const normalized = out.trim();
+    if (normalized) {
+      outputGroups[normalized] = outputGroups[normalized] || [];
+      outputGroups[normalized].push(lang);
     }
   });
   const summaryItems = Object.values(outputGroups).map(group =>
-    group.length > 1 ? `Same: ${group.map(l => l.toUpperCase()).join(' & ')}` : `Unique: ${group[0].toUpperCase()}`
+    group.length > 1
+      ? `Same: ${group.map(l => l.toUpperCase()).join(' & ')}`
+      : `Unique: ${group[0].toUpperCase()}`
   );
+  
 
   const containerClass = darkMode ? 'bg-gray-900 text-white' : 'bg-gray-100 text-gray-900';
 
@@ -430,7 +435,7 @@ function App() {
           </motion.div>
         </motion.div>
       )}
-      <ToastContainer position="bottom-right" autoClose={3000} hideProgressBar />
+      <ToastContainer position="bottom-left" autoClose={500} hideProgressBar />
     </motion.div>
   );
 }
