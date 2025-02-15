@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Customize the split gutter for smooth dragging */
+.gutter {
+  background-color: #ddd;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+.gutter.gutter-horizontal {
+  cursor: col-resize;
+  width: 10px;
+  transition: background-color 0.2s ease;
+}
+.gutter.gutter-horizontal:hover {
+  background-color: #bbb;
+}
+.gutter.gutter-vertical {
+  cursor: row-resize;
+  height: 10px;
+  transition: background-color 0.2s ease;
+}
+.gutter.gutter-vertical:hover {
+  background-color: #bbb;
+}
+
