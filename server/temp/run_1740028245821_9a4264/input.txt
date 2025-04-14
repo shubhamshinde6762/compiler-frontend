@@ -1,0 +1,546 @@
+109
+TestCase-1
+40
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+40
+9 19853 -51280 -38649 -25022 52814 77971 48575 78041 -50884 -86069 -45381 31007 31464 -15066 -58495 27667 -89547 29420 -39232 26373 -77099 67970 49928 -28966 30288 35669 -44340 -42245 -24842 -91307 33520 99313 -94837 -67759 -13664 92835 -2862 -37812 71536
+TestCase-2
+20
+MovingAverage next next next next next next next next next next next next next next next next next next next 
+20
+1 -92242 46359 6515 -27204 67282 -35179 93088 -80403 66459 -57591 -57507 96134 3100 11979 44897 -67250 63524 1273 95645
+TestCase-3
+17
+MovingAverage next next next next next next next next next next next next next next next next 
+17
+8 15742 22476 90885 -43816 -23907 22200 -46724 16536 -46214 21434 -25401 72651 -87028 19184 62535 47586
+TestCase-4
+18
+MovingAverage next next next next next next next next next next next next next next next next next 
+18
+8 -32561 99440 -29907 -33991 68376 -63274 42407 -58901 -16526 57871 55337 12812 30441 70783 -7257 -97744 -59676
+TestCase-5
+50
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+50
+4 -40962 -37352 -14772 -391 50639 67234 5842 -81671 -95855 -73533 54224 78200 44052 -33004 -63452 78068 -1012 70915 33992 -77933 55148 18014 -12970 -64985 82414 41748 -2551 25981 65566 -8791 49256 82173 46981 89909 13941 51993 -41815 99898 -42993 28230 36773 -63406 80076 -59923 -27820 -28528 18524 -94353 32053
+TestCase-6
+18
+MovingAverage next next next next next next next next next next next next next next next next next 
+18
+8 -42558 -74209 47759 98025 -85120 -14891 51016 -24189 14710 91428 -26504 -69473 -47399 8626 44128 21428 58489
+TestCase-7
+28
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+28
+8 40699 52336 -11681 79529 -91004 58795 -2942 21779 -20071 68159 77620 -54148 28711 -80510 -67935 -99319 -41243 95392 -81639 -78581 50675 15983 13143 37854 87895 -17339 -50821
+TestCase-8
+50
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+50
+4 28067 81608 56840 22497 -96025 49149 2948 -1102 -12323 8209 -28550 -56312 18408 -64154 94781 -7540 -49383 -85062 36990 -40024 -22839 42492 -50767 -38749 -80483 32953 -91981 -22569 46701 74210 -8 82823 -48733 27778 -62460 -26803 64847 38972 -104 -22630 57114 76482 28025 -32377 -54399 36151 -79112 95039 24194
+TestCase-9
+36
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+36
+4 -56183 -71138 -98276 -86317 14844 -3471 84975 -27213 -44457 -33057 46497 14099 -4097 -82037 -98515 -5857 16951 -17944 34119 -63785 88952 86767 58420 -9478 -10164 -75743 -74999 -7209 -321 4214 58992 -16452 19339 -15768 -52596
+TestCase-10
+30
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+30
+7 -83865 90970 56350 12142 30552 -36927 -83828 -51110 -25301 -11639 42257 -56670 94170 -77846 -57893 -61168 37455 95875 -5220 1968 -92578 -76825 27299 -31532 87670 -82211 -27391 -10964 20998
+TestCase-11
+2
+MovingAverage next 
+2
+3 -24456
+TestCase-12
+10
+MovingAverage next next next next next next next next next 
+10
+8 -86805 51609 -3632 48472 43735 8176 42225 -62354 53289
+TestCase-13
+45
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+45
+2 -29105 58122 -63903 -24488 -57640 49456 -44706 -66596 55784 97657 78809 -2855 -61885 43669 -6583 45671 -13539 -81201 50959 -11619 -98248 49642 74363 56166 -78391 74597 34637 -76232 21490 -4147 56253 84784 -88615 -56454 97216 62780 -72997 -42584 -79570 14757 -16112 44885 -26817 92417
+TestCase-14
+27
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next 
+27
+8 -47717 71264 -81767 55844 73625 77049 -63875 -39046 -99538 -70396 -48025 97620 -42663 41647 -31611 58459 63833 -7626 91176 -76179 95075 -97978 21484 -75121 -74573 -22810
+TestCase-15
+30
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+30
+9 18106 -24396 -39711 84595 70307 -77895 -11263 70256 -96294 -96064 -91829 -52654 37349 96610 92623 -15613 5571 -79701 -33364 35165 -82360 -81856 -67209 39709 72370 -42946 -77872 -8503 43259
+TestCase-16
+36
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+36
+7 8962 -68603 39530 28022 8490 -33939 63815 73506 -56076 -97124 -26884 -3612 84839 49802 55128 32991 96206 29329 -96092 68206 94509 -79481 -22762 -65585 98153 79502 -73466 40205 -63975 96346 54894 -3831 719 9638 58698
+TestCase-17
+42
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+42
+10 44519 -25064 -51940 -91994 44983 75043 56908 -23133 58450 -23807 -38630 5251 13466 80804 22812 85247 -69377 -14101 -68402 33855 -39427 -55121 -27793 -45860 -90130 -58937 -41948 2596 41975 90101 46129 9280 -60218 7583 -54620 -15306 63390 -73686 54528 5949 53395
+TestCase-18
+18
+MovingAverage next next next next next next next next next next next next next next next next next 
+18
+4 11170 -57429 99837 -46378 -66592 50699 1963 -30311 -60403 -49001 60456 96131 60044 18074 66858 -65815 41767
+TestCase-19
+35
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+35
+9 66878 36026 15841 71074 41982 -7163 55476 -22403 -28620 -41839 15101 6334 -73203 53026 -30222 -81396 80198 76466 -49016 -47632 -86705 -86603 25327 -40836 -2375 -17741 33808 14745 -67045 -94716 -14631 -23098 81880 -9214
+TestCase-20
+39
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+39
+8 -37271 84188 -4972 -11889 86985 -17900 77063 13750 -98081 29436 -77374 -12294 64529 -88512 -75051 -54875 -10033 56863 -51693 -4930 89385 75143 24121 54286 -23201 97254 -56862 82303 -90997 99685 -91013 -5431 39825 3323 3212 21576 13864 -20800
+TestCase-21
+48
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+48
+2 -86538 35156 -91587 -78907 86309 -88965 25043 93540 49056 84567 49503 69771 43835 81884 -13639 -8983 -79104 -92869 18526 70459 77502 85998 -7766 -95751 -700 61440 -65287 74102 -94460 23615 -52263 39098 -13346 3396 55826 28061 49499 50426 -25964 -13017 84060 -61369 -8853 -65494 74478 36968 -70291
+TestCase-22
+30
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+30
+7 -70816 15072 18440 13635 -8682 -88370 99888 10666 -16935 -17050 -8506 18020 -56932 18129 91038 -3751 47423 -74835 66329 -24319 -74882 2082 11434 -14366 -64969 14883 -54694 -29199 66795
+TestCase-23
+4
+MovingAverage next next next 
+4
+2 20127 -46362 -32526
+TestCase-24
+18
+MovingAverage next next next next next next next next next next next next next next next next next 
+18
+6 88772 52205 60489 9935 19041 7595 -98307 65649 35609 71692 -58274 -84181 -20194 -83734 78772 -98289 69410
+TestCase-25
+43
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+43
+9 -44002 -61837 31717 62184 75823 52814 75012 15021 -18317 65379 49387 61469 47152 -26061 94061 30139 -22912 -35847 -74124 33789 -84034 -86905 -98250 -43297 126 96111 -28752 21241 -61196 95782 88282 -56251 17835 34846 38095 55628 -49629 97817 -75179 -99036 -46222 -32246
+TestCase-26
+16
+MovingAverage next next next next next next next next next next next next next next next 
+16
+9 -77314 -33676 -68387 7375 -74931 -28159 -45477 48829 -2941 19763 90486 79479 45658 40004 -10391
+TestCase-27
+47
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+47
+1 -11278 -66977 -70321 -72452 67164 -79298 -20471 -62020 -23020 91090 64594 -93547 40813 74634 -28026 15279 -22478 12902 3984 82623 -69700 -29275 8699 -28645 -79858 -811 25740 -50235 8086 -8257 -96339 -92000 38910 -92078 42385 82506 8740 64991 -88937 56862 22417 39300 17611 -99163 -44167 98082
+TestCase-28
+45
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+45
+3 -49957 28833 18473 12455 -8524 26647 -88931 -34209 69299 64801 -66413 -31100 -12720 6502 35433 9968 -16185 2177 -24668 -57163 -46300 -2412 49929 64056 49114 64200 -47226 -93660 -10905 11880 -91171 -53621 -44936 -25870 54723 -96706 85969 44234 -73345 18440 -2572 43857 98055 -73540
+TestCase-29
+23
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next 
+23
+7 72762 -60890 35566 91631 80245 -70049 -46290 -84309 62017 -63457 -76105 -58668 27796 79255 -44399 -13517 -55655 -13217 -17186 57472 -60975 54726
+TestCase-30
+19
+MovingAverage next next next next next next next next next next next next next next next next next next 
+19
+8 82229 81303 -25766 4292 -88976 -9243 6173 15116 -54476 85214 98964 -85920 97011 -50477 42754 -4243 86900 -37058
+TestCase-31
+24
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next 
+24
+6 -90349 96396 -275 86200 45514 67139 91260 59672 10345 89145 63364 -11526 -89491 -34396 54627 9061 63250 -78505 -13647 -63009 75474 -43305 -48132
+TestCase-32
+12
+MovingAverage next next next next next next next next next next next 
+12
+10 54848 -49729 60081 -61602 -97024 93074 67960 -22033 11612 12431 66048
+TestCase-33
+39
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+39
+1 -23860 -92295 56603 -54370 46538 -31242 1544 -259 94929 -7781 90246 -97079 -20932 -25664 56299 -7539 -47470 46001 -58098 -79487 -31100 69209 -98852 -88942 -37836 -83278 45539 20604 -43494 -70002 -60710 -17580 -78515 -9364 -34484 57156 -59434 37620
+TestCase-34
+49
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+49
+10 35420 19731 90172 52291 -439 -27827 21048 -84050 48668 -20039 157 -80475 24129 -20257 78080 48118 -79029 -88366 89929 -45912 48976 24783 -43242 -36354 79922 31270 29678 -35572 37999 88818 72512 79451 -1638 66913 87795 -27482 -35835 -82252 3128 -8332 -61862 81536 64546 2601 37721 -34130 82358 83832
+TestCase-35
+4
+MovingAverage next next next 
+4
+10 -59191 -16872 -74509
+TestCase-36
+46
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+46
+10 -35812 -11815 -54608 78363 51601 18066 89746 -46938 57810 -53178 -96480 -17878 43310 57581 -31073 -9823 -89599 24896 -91943 98708 41398 82403 -34932 -83711 -34694 33500 24889 10187 -40291 88528 66804 -86619 -93899 78851 -19779 -19348 -93784 -15743 -61638 18673 121 49515 -81009 87693 -9931
+TestCase-37
+46
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+46
+5 -79508 65769 52752 97768 -63799 -64644 62104 84781 -50176 71829 82694 85707 -58291 63392 -51313 -69774 -29555 -342 58447 29129 -97019 -11189 -86601 -18206 61705 38756 -49373 -96249 -37532 -40107 98241 17416 63867 41844 61898 44641 46037 -48841 36754 5068 -87862 -33403 17855 56007 -72561
+TestCase-38
+7
+MovingAverage next next next next next next 
+7
+7 54827 -31444 -55113 -1520 -66219 -23792
+TestCase-39
+28
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+28
+7 20220 62547 7549 93733 -33587 71136 84998 -75874 39802 80372 -5224 93734 79786 -20783 -31205 -49317 59169 -63551 44651 60968 -9910 -38306 -51572 -10769 41741 36872 -60687
+TestCase-40
+25
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next 
+25
+2 -17120 -19016 -18801 -21641 -35242 -22511 55032 17291 -64921 93089 -32844 -56501 -61696 -4112 -77476 -25998 80279 -91207 39092 -6969 -15384 -74107 36333 83654
+TestCase-41
+11
+MovingAverage next next next next next next next next next next 
+11
+6 92529 63266 69812 -93536 9882 5563 -76877 -69155 33174 -16008
+TestCase-42
+24
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next 
+24
+9 38403 -70045 -20020 -15016 80939 13366 74052 84784 -1309 50024 -68943 -38296 -7990 26744 12021 85991 -24758 -68525 -28840 74055 -34304 -28524 33714
+TestCase-43
+46
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+46
+2 63182 46642 87153 77159 93987 -57458 82031 42805 71020 -55865 -20931 72821 -30599 46921 17828 43007 16856 21156 67930 -41024 -42931 -91217 -56088 14833 -14298 24218 -91740 -46157 -33387 -46157 -88935 -4864 63355 -97698 20585 33960 -46531 -14500 -20433 86987 -47427 37027 -4330 -2689 -86166
+TestCase-44
+41
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+41
+5 60922 81370 92965 45993 -34198 -80983 -88962 90890 86490 -41431 66566 -47154 21557 7063 1738 -61761 21120 -96499 -35741 84656 -98711 -45326 12552 -28880 -29841 -74555 -86420 42812 -95359 -79429 41814 -31422 15993 23779 -68543 -90464 -99515 6936 27094 -33440
+TestCase-45
+20
+MovingAverage next next next next next next next next next next next next next next next next next next next 
+20
+4 73298 -29090 -84541 -839 85258 49871 41124 70127 61627 -82501 28910 -49279 -18887 90171 -9401 -43384 -23392 -47978 28760
+TestCase-46
+3
+MovingAverage next next 
+3
+1 -7409 16588
+TestCase-47
+16
+MovingAverage next next next next next next next next next next next next next next next 
+16
+8 58296 -41429 -45408 26963 20885 -396 30415 -91175 68789 -52934 84076 88705 63158 -83192 -65446
+TestCase-48
+41
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+41
+4 -94298 81487 27089 -12734 20271 -63864 -46040 -83577 82704 5282 88338 -58459 66127 -74034 80812 -85783 -73787 77239 -69937 16334 -68138 -20424 89783 10240 -89442 8002 60408 15307 -77474 -48206 -50687 69779 33410 54471 -78968 79627 -71247 -16523 -31604 -70133
+TestCase-49
+38
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+38
+4 1131 95249 95419 -72281 5857 94102 -3781 5876 6754 56079 -24452 2444 -1302 -65355 1400 62006 -59306 -47167 3931 34838 -5470 -18818 77237 -81797 -50161 40904 -28953 33831 -31002 -61577 89217 -39915 -45781 -31499 33008 -93175 -73097
+TestCase-50
+4
+MovingAverage next next next 
+4
+6 -76088 36046 -18629
+TestCase-51
+36
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+36
+1 35058 -27566 -88186 -16993 -63114 41959 -8444 99723 -1664 -60144 28212 -80479 85078 22739 -82760 -31643 -4043 -83810 -72940 -28086 68147 -96358 -55040 -44675 -45193 -93031 -33292 -60879 45376 81563 25819 -39764 -84183 -40969 -7424
+TestCase-52
+27
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next 
+27
+1 77163 2958 -42443 -33453 -36155 5717 -62594 66847 -71013 -24795 -46277 18861 -10530 87159 -32825 -52468 42024 63889 11304 -21105 -81849 -45695 82391 24884 51906 -2347
+TestCase-53
+31
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+31
+6 -30340 15617 48681 -34256 11316 -62754 -1409 -86220 -3388 86482 38547 13585 65832 -57946 85735 27223 76697 41533 85506 93548 60284 67535 -73175 89993 -45845 -79116 2435 -15494 -37057 78004
+TestCase-54
+26
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next 
+26
+6 -58143 -8735 -30591 -98585 68417 68661 55763 -69860 -27623 19113 75336 -46168 -62844 80891 85678 -84446 50965 51217 -4734 -95243 -94963 -12186 51513 71397 46568
+TestCase-55
+32
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+32
+8 -39368 -87974 -34899 -9256 64992 41168 -44895 -96994 -17262 30402 -85507 -57140 5694 -31410 -88842 -86796 -75874 -98436 56144 88326 -6598 1186 -19752 -93779 88080 -56745 48565 -40876 41691 48823 -69192
+TestCase-56
+5
+MovingAverage next next next next 
+5
+2 -64662 20272 -95876 48121
+TestCase-57
+24
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next 
+24
+9 27971 2611 -85718 -57209 9459 -61831 -59198 -8603 -12624 -72422 29852 -90199 17622 -43567 37125 -39834 -1985 47222 -22916 69225 -37904 -77770 -40721
+TestCase-58
+10
+MovingAverage next next next next next next next next next 
+10
+10 -41988 41121 32884 57956 -98800 35307 -55962 83619 -64786
+TestCase-59
+41
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+41
+3 94175 20792 95769 79491 58913 -99061 -17563 25427 -38548 -10268 53942 73694 -58415 39537 74072 77390 91190 69033 34361 -26107 -30901 91141 -15182 49938 69541 18290 -87387 49226 12104 -54673 6122 -69740 79291 97600 -22879 -39133 -19948 84157 -77940 -24657
+TestCase-60
+32
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+32
+5 23839 -5042 -26226 28732 -67746 53462 89185 34747 -79039 -66793 54670 -35128 -74067 -67538 14325 -99813 25658 42359 -75155 -9806 -98234 93845 58001 -33341 36826 -17490 -61023 -70585 22912 44247 -33697
+TestCase-61
+43
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+43
+4 -2163 -6880 40712 59437 -78249 42077 -94020 68900 48769 -83772 -58260 82765 -92524 32829 -3955 -8956 -1017 -57449 -51540 2486 58570 56904 -72905 48030 36803 30405 86414 -15041 42138 38015 62447 -65889 -62053 88340 -26216 -32114 53317 -25333 -6904 32774 28170 -36823
+TestCase-62
+43
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+43
+9 -55858 -65358 44189 70629 74435 -72097 -59147 -58300 39506 43644 -35869 -61150 59362 -86850 15995 -26255 -22933 -67540 -69441 82074 -79733 -47255 -75368 69405 -37897 -10801 -44027 28547 91592 44757 -54186 84667 -34686 -32491 -95370 -56649 21019 20568 49505 42933 -34962 51234
+TestCase-63
+2
+MovingAverage next 
+2
+1 -74835
+TestCase-64
+3
+MovingAverage next next 
+3
+2 47931 -21871
+TestCase-65
+17
+MovingAverage next next next next next next next next next next next next next next next next 
+17
+10 -57654 -25572 -4188 48542 47209 -5993 -22335 -79758 -29355 68167 -91280 -72181 -81061 91074 39603 9957
+TestCase-66
+33
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+33
+6 -86784 -59438 -56941 -86562 49899 49730 79860 15517 62228 15937 -17177 -38244 -60084 65325 95104 86258 22470 3803 -10913 62105 -52150 -92514 -51029 -41030 99750 -13780 83262 14580 -36141 -19911 -84404 84710
+TestCase-67
+6
+MovingAverage next next next next next 
+6
+6 -68448 -83785 28733 -56053 63180
+TestCase-68
+24
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next 
+24
+2 20592 77844 -26572 3558 98171 21618 54453 -22457 -49298 14366 -58209 -73310 68913 10534 69289 -96050 45641 70463 17296 -85354 -34132 76320 -81249
+TestCase-69
+12
+MovingAverage next next next next next next next next next next next 
+12
+1 -7584 -90709 -85 40569 32842 80480 47362 72654 -49436 -29566 -34109
+TestCase-70
+17
+MovingAverage next next next next next next next next next next next next next next next next 
+17
+10 -77633 -36883 63362 -74992 -22383 85707 99656 81033 -82151 -5845 76289 44938 69319 -7391 -21659 -78367
+TestCase-71
+47
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+47
+8 -72294 -17167 38759 68948 -49526 -58994 32959 -27311 -9760 83175 30575 -20601 35633 58186 -5875 57634 -72403 -91139 85016 -37039 -33681 60698 540 10158 97367 94387 98869 18993 18798 -94437 44683 -71458 -37853 -56318 11880 49732 36642 2175 -57729 36412 83427 -5401 29265 -46531 30769 -11814
+TestCase-72
+5
+MovingAverage next next next next 
+5
+3 -75125 88634 -45510 194
+TestCase-73
+19
+MovingAverage next next next next next next next next next next next next next next next next next next 
+19
+3 65663 -6185 53741 62704 -20339 5484 -40051 22548 49295 10053 79138 65315 37129 25940 30569 -119 -78190 35661
+TestCase-74
+46
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+46
+2 47407 -72457 -32195 68035 21821 -76020 -70822 -41815 50687 -80722 41360 -66228 -61422 -97143 -57143 94082 -79112 -85746 -40498 -51131 9670 -95969 -21512 34612 59553 85372 -2101 35616 10028 14099 19999 -64123 -56132 -72060 -97369 -64289 -44289 95295 5222 23685 88224 23126 83891 83873 65336
+TestCase-75
+47
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+47
+5 -97887 -59233 53117 -19730 84083 -84095 -26986 -94686 38229 84762 -3086 -44807 -28739 -68312 17070 45160 47203 -12257 91572 92717 77603 535 56816 -78070 98082 14141 13839 98675 -2112 44683 20826 35405 54154 -66409 -77540 55929 -61879 -46670 28942 -98613 -6275 69606 7849 57775 -78876 22610
+TestCase-76
+43
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+43
+1 94433 84529 65491 89925 -5426 -35654 -35213 13668 56653 61934 95266 82601 29588 99987 -52598 81870 -12633 -74058 -62237 20232 30672 2761 -28575 4204 66454 62145 32376 -25182 93821 -86249 16464 -84665 -81417 -62345 91773 -71453 96677 -8360 6073 -95910 82820 -16767
+TestCase-77
+39
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+39
+5 -48487 -24654 87129 84265 -29816 -7531 -36347 -17397 -24852 35997 -74854 74040 -28001 -11478 -23733 -17211 64826 46705 -36048 51209 78182 -96969 15483 44598 21757 55195 -64260 -88288 35006 61247 -50833 -7666 41557 88460 22088 -40540 58325 29842
+TestCase-78
+29
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+29
+1 91893 -421 36267 -9205 -80240 3852 -1176 91269 -99822 86071 56711 26845 -57291 30338 63886 -83786 37449 -8707 50412 -36373 52955 39850 96017 8899 -30427 56629 75770 93394
+TestCase-79
+28
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+28
+2 -48787 22264 -62044 46019 -20813 -95616 97256 67672 20780 -83775 -96156 84900 -75573 -23520 -80704 1866 -26078 73141 -96924 -53102 -72251 39297 14573 65127 96442 -73727 -70602
+TestCase-80
+30
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+30
+9 -30508 63486 89832 -58931 68412 76470 -79121 -86363 -28022 -63701 90913 53138 -22066 -33053 33820 90270 55883 41061 -85951 -91021 25451 82718 24944 -25349 35437 -91597 -39538 90289 -76949
+TestCase-81
+31
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+31
+7 5749 -88203 49404 22610 70470 -72486 -62367 -81301 -98363 -76702 -77058 56603 26855 -77046 65578 78598 49434 -62765 49015 -43833 -27339 -86746 14533 -7913 34472 44594 -78849 91967 67254 88125
+TestCase-82
+10
+MovingAverage next next next next next next next next next 
+10
+3 -86296 -83055 -25385 21073 10527 -16860 -93517 -37870 97196
+TestCase-83
+17
+MovingAverage next next next next next next next next next next next next next next next next 
+17
+9 -96699 -55956 43152 -16577 98087 -30938 80974 20431 -9347 -5205 -99874 -60137 -98757 6842 25541 -6970
+TestCase-84
+11
+MovingAverage next next next next next next next next next next 
+11
+5 -86823 51279 -49225 70362 -59180 34222 -80742 49886 32540 87251
+TestCase-85
+39
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+39
+9 70950 47305 -31836 40972 74388 49105 -58313 9301 77251 35752 58059 12725 -12571 -23606 -83928 23291 -34570 32787 77160 -76309 30577 98798 72453 66301 -64646 99374 -29090 -70292 99647 -64573 -33998 47125 45237 -63923 -90407 67775 -4784 91117
+TestCase-86
+49
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+49
+10 40631 32273 55349 83254 -26726 72587 -96937 93851 4526 2394 23817 -59825 -95341 30972 1670 -29604 43060 -12870 -79145 -32807 44728 -68621 23714 -60353 -76774 -55797 -61091 6821 -80680 -21639 -45540 99830 19613 -31352 76704 -44039 -26304 -77610 -47513 -61772 33965 -55703 46634 21645 69649 15659 1299 34846
+TestCase-87
+5
+MovingAverage next next next next 
+5
+7 39261 -76957 14642 58179
+TestCase-88
+29
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+29
+4 39723 -36233 90897 -90222 -90303 38546 -13315 10287 72152 54174 28498 98595 80485 -5171 -97637 -88502 -5508 -10104 38750 -62203 54989 -28318 -54380 54274 29646 -59965 -56102 37687
+TestCase-89
+5
+MovingAverage next next next next 
+5
+1 13524 -70219 33530 64988
+TestCase-90
+44
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+44
+1 48712 -1341 3845 -25202 -90339 92719 42193 -75685 -41087 68466 32364 -7382 13137 48958 82565 -93403 61494 80521 -23669 30697 -26092 52361 7651 -98758 -26586 -95727 -93312 -30393 50990 -86553 -70640 -71899 8431 24825 -56108 54422 52646 46672 -50954 -66247 39588 88315 -61353
+TestCase-91
+16
+MovingAverage next next next next next next next next next next next next next next next 
+16
+9 -46437 -33057 -26038 32645 -96224 -62431 68178 36753 -7477 85977 52252 -21760 31444 8267 -84840
+TestCase-92
+12
+MovingAverage next next next next next next next next next next next 
+12
+5 -49163 -76503 -68689 3482 -39289 -18664 -25974 -42234 64426 86057 94490
+TestCase-93
+19
+MovingAverage next next next next next next next next next next next next next next next next next next 
+19
+9 -46924 -8679 19198 16288 82347 16598 -2409 31146 28280 -85940 -19707 -28600 167 77109 -43671 35522 -3996 39965
+TestCase-94
+16
+MovingAverage next next next next next next next next next next next next next next next 
+16
+7 67912 -42114 69972 62598 26819 5215 -75956 -57558 13086 -30817 -21661 -15107 55162 13507 68414
+TestCase-95
+43
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+43
+10 -31557 52468 48782 -12384 92190 50981 87408 -15982 89080 51650 -25314 -91316 96410 79520 -83445 -15544 -52289 -31309 30159 -25725 -62707 -98567 70370 -29139 -18242 -13102 25274 55291 -21175 98664 -55029 54376 -73910 47203 -13753 -41768 -78313 71194 4204 -33729 -74470 38470
+TestCase-96
+26
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next 
+26
+9 57620 -94274 16232 -56493 20379 -89913 97240 -10943 -28735 89212 -2785 38715 -97844 75717 -16818 -49124 55923 73189 91883 -34285 41788 -13261 54347 -11132 -23774
+TestCase-97
+36
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+36
+4 24640 89984 -83377 13210 48761 72224 -46419 38192 92662 -69815 22655 -77080 93733 94466 78536 -39328 55095 89965 43972 33882 -96550 42016 -24581 -65098 45417 69906 52904 -96578 -19961 -36217 -35002 79682 77615 75429 3071
+TestCase-98
+35
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+35
+4 53899 18227 21077 -7012 23167 3432 50893 18483 -45034 69434 43976 32099 16450 95142 -72777 -36476 -25781 81235 -22131 47448 49330 -5798 -77561 -10769 -13100 -23099 35988 -24237 47985 -18270 28509 -39179 -93055 96481
+TestCase-99
+24
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next 
+24
+6 84698 23813 19496 43523 22367 -83660 -92397 -36575 63197 46672 80279 -59856 -34925 45380 86155 -18167 -82942 -28451 -16786 89812 98014 -81266 -33217
+TestCase-100
+49
+MovingAverage next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next next 
+49
+1 -35777 -41455 -20936 73922 41312 -50686 -15788 13234 -56776 -11245 -33768 4564 56351 -58809 -60661 7556 -86152 -20156 -3420 28190 -14668 84324 -35810 -17324 56008 -90472 50853 87361 -82225 5624 34629 -35858 -94508 36449 -88360 67328 40082 -1207 -26325 32056 44300 63117 42951 -1243 -9576 -85407 24414 -73963
+TestCase-101
+5
+MovingAverage next next next next 
+5
+1 100000 -100000 100000 -100000
+TestCase-102
+11
+MovingAverage next next next next next next next next next next 
+11
+10 0 1 2 3 4 5 6 7 8 9
+TestCase-103
+6
+MovingAverage next next next next next 
+6
+5 5 5 5 5 5
+TestCase-104
+6
+MovingAverage next next next next next 
+6
+5 10 -10 10 -10 10
+TestCase-105
+6
+MovingAverage next next next next next 
+6
+3 100 200 300 400 500
+TestCase-106
+5
+MovingAverage next next next next 
+5
+4 2 4 6 8
+TestCase-107
+6
+MovingAverage next next next next next 
+6
+2 1 3 5 7 9
+TestCase-108
+6
+MovingAverage next next next next next 
+6
+3 7 3 5 2 8
+TestCase-109
+7
+MovingAverage next next next next next next 
+7
+5 10 20 30 40 50 60

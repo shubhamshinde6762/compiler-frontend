@@ -1,0 +1,52 @@
+#include <iostream>
+#include <unordered_map>
+#include <vector>
+#include <sstream>
+using namespace std;
+
+class TwoSum {
+    unordered_map<int, int> freq;
+public:
+    void add(int number) {
+        freq[number]++;
+    }
+    
+    bool find(int value) {
+        for (auto &it : freq) {
+            int num = it.first;
+            int count = it.second;
+            long long complement = (long long)value - num;
+            if ((complement != num && freq.count(complement)) || (complement == num && count > 1))
+                return true;
+        }
+        return false;
+    }
+};
+
+int main() {
+    int T;
+    cin >> T;
+    
+    for (int t = 0; t < T; ++t) {
+        string case_name;
+        cin >> case_name;
+        cout << case_name << "\n";
+        int n;
+        cin >> n;
+        TwoSum ts;
+        string op;
+        
+        while (n--) {
+            cin >> op;
+            if (op.find("add(") == 0) {
+                int x = stoi(op.substr(4, op.size() - 5));
+                ts.add(x);
+                cout << "null ";
+            } else if (op.find("find(") == 0) {
+                int x = stoi(op.substr(5, op.size() - 6));
+                cout << (ts.find(x) ? "true " : "false ");
+            }
+        }
+    }
+    return 0;
+}

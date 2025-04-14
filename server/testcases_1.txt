@@ -1,0 +1,440 @@
+Test Case 1:
+Tree: [452, 356, 486, 284, 385, 481, 673, 227, 296, None, 387, 458, None, 645, 773, 23, 266, None, 350, None, None, None, None, 642, None, 730, 801, 5, 158, None, None, 298, None, 501, None, 712, None, 791, 981, None, None, 156, 211, None, 344, None, 517, 706, 728, None, None, 975, 998, 96, None, 206, None, None, None, None, 548, 680, None, None, None, 854, None, 993, None, 86, 123, 180, None, None, 590, None, None, None, 903, 992, None, None, None, None, None, None, None, None, None, 901, 961, None, None, None, None, 937]
+Target: 763.1
+
+Test Case 2:
+Tree: [336, 85, 952, 29, 139, 938, None, None, 65, 110, 300, 635, None, None, None, 109, None, 267, 309, 367, 926, None, None, 190, None, 307, 331, None, 609, 917, 927, None, None, None, None, 311, 334, 565, None, 826, 920, None, 929, None, 327, None, None, 552, None, 650, 913, None, None, None, None, None, None, 382, None, None, None, 906, None, None, 427, 834]
+Target: 22.7
+
+Test Case 3:
+Tree: [138, 34, 449, 26, 123, 407, 938, None, None, None, None, 230, None, 679, 975, 210, 291, 566, 695, 942, None, 141, None, 289, 365, 458, 673, None, 900, None, None, 139, 145, None, None, None, 370, None, None, None, None, 894, None, None, None, None, None, None, None, 713]
+Target: 341.3
+
+Test Case 4:
+Tree: [129, 17, 561, None, 61, 393, 709, 44, 73, 295, 523, 610, 746, None, 48, None, 80, 186, 338, 478, 530, 596, 641, 741, 904, None, 58, None, 123, None, 270, 323, 361, 461, 519, None, None, 595, 603, 626, 663, 719, None, 753, 964, None, None, None, None, 194, None, None, None, None, None, 422, 465, None, None, None, None, None, None, None, None, 652, None, None, None, None, 899, 954, 972, None, None, None, 459, None, None, None, None, 776, None, None, None, None, None, None, None, 758, 869, None, None, 813, None, None, 820, None, 825]
+Target: 744.8
+
+Test Case 5:
+Tree: [684, 326, 914, 178, 502, 906, 982, 147, None, 444, 577, 817, None, None, 998, 6, None, 380, None, None, 607, None, 881, None, None, None, None, None, None, None, None, 879]
+Target: 963.8
+
+Test Case 6:
+Tree: [12, None, 35, None, 434, 290, 961, 234, None, 590, None, 193, None, None, 728, None, None, 706, 953, 656]
+Target: 366.0
+
+Test Case 7:
+Tree: [94, 32, 483, 3, 34, 460, 848, None, None, None, 56, 252, 471, 754, 878, None, None, None, 325, None, None, 622, None, None, 908, None, None, 550, None, 894, 973, 526, None, None, None, None, 990]
+Target: 587.6
+
+Test Case 8:
+Tree: [547, 525, 872, 194, None, 820, 960, None, 408, 811, None, None, None, None, None, 780]
+Target: 248.4
+
+Test Case 9:
+Tree: [966, 549, 981, 66, 778, None, None, 53, 340, 621, 937, 37, None, 327, 441, 607, 775, None, 947, None, None, 179, None, 362, 504, 563, 614, 770, None, None, None, 117, 228, 357, 382, 488, 512, None, None, None, None, None, None, 106, 146, 190, 285, None, None, 367, None, 446, None, None, None, None, None, None, None, None, 224, 261, None, None, None, None, None, 191, None, 238]
+Target: 698.9
+
+Test Case 10:
+Tree: [291, 135, 303, 116, 264, None, 346, 94, 127, 262, None, 322, 428, None, None, None, None, 169, None, None, None, 383, 628, None, 261, 373, 387, 522, 892, 249, None, None, None, 385, None, 514, 576, 713, 984, 187, None, None, None, 504, None, 532, 624, 689, 863, 937, None, None, None, 436, None, None, 566, 579, None, 658, None, 806, 867, None, 978, None, None, None, None, None, None, None, 671, None, None, None, 870, 967, None, None, None, None, None, 954]
+Target: 105.5
+
+Test Case 11:
+Tree: [875, 712, 898, 599, 779, None, 926, 4, 678, 723, 824, None, 932, None, 405, 652, None, None, 724, 822, 834, None, 949, 83, 488, None, None, None, 730, 783, None, None, 847, None, 966, 76, 324, 419, 512, None, None, None, 804, None, None, None, None, 12, None, 137, None, None, 441, None, None, None, None, None, None, 90, 261, 427, None, None, 96, 257, 277, None, None, None, None, 242, None, None, None, 219, None, 154, 241, None, 162]
+Target: 367.1
+
+Test Case 12:
+Tree: [85, 83, 477, 69, None, 417, 593, 30, None, 267, None, 579, 991, None, None, 177, 299, 496, None, 986, None, None, 234, None, 389, None, None, 840, None, None, None, None, None, 666, 898, None, 790, None, None, 689]
+Target: 703.3
+
+Test Case 13:
+Tree: [469, None, 997]
+Target: 481.9
+
+Test Case 14:
+Tree: [588, 25, 761, None, 41, 701, 819, None, 256, 660, 708, None, None, 212, 281, None, None, None, 721, 190, None, None, 388, None, None, 111, 195, 303, 437]
+Target: 379.9
+
+Test Case 15:
+Tree: [14, None, 481, 444, 772, 340, 447, 574, 891, None, 405, None, None, 506, 687, 809, 917, None, None, None, None, 668, None, None, None, None, None, None, 680]
+Target: 17.1
+
+Test Case 16:
+Tree: [653, 206, 697, 176, 289, 687, 962, 88, 188, 255, 401, None, None, 795, 996, 47, 101, 178, None, 241, None, 363, 518, 752, 929, 984, None, 2, None, None, 147, None, None, None, None, 308, 388, None, 592, None, None, None, None, None, None, None, 35, None, None, 302, 317, None, 400, 567]
+Target: 84.9
+
+Test Case 17:
+Tree: [474, 42, 668, None, 126, 506, 948, 123, 365, None, 562, 816, 984, None, None, 144, 390, 508, 649, 786, 880, 966, None, None, 197, None, None, None, None, 586, None, 669, None, 846, None, None, None, None, None, None, 641, None, 720, None, None, 618, None, 696]
+Target: 52.5
+
+Test Case 18:
+Tree: [279, 9, 758, None, 30, 609, 817, None, 244, 465, 662, 799, 887, 122, 253, 329, 574, 640, 681, 782, None, 876, 895, None, None, None, 269, None, 426, 470, 603, 633, None, None, 752, None, 795, 871, 882, None, 935, None, None, None, None, 468, 494, None, None, 631, None, 694, 756, None, None, None, None, None, None, 928, 992]
+Target: 344.5
+
+Test Case 19:
+Tree: [630, 611, 770, 360, None, 635, 997, 192, 507, None, 650, 965, None, 99, 218, 442, 523, None, 752, 837, 977, 16, None, 210, 259, 431, 503, None, 548, 681, 769, 801, 886, None, None, None, 64, None, None, 224, 270, 396, None, None, None, None, None, None, None, None, None, None, 813, 867, 949, None, 69, None, 253, None, 306, 369, None, None, None, None, None, 911, None, None, 94, 239, None, 289, None, None, None, None, None, None, None, None, None, 274]
+Target: 142.8
+
+Test Case 20:
+Tree: [692, 298, 717, 73, 492, None, 753, 41, 123, 356, 569, None, 956, None, None, None, 133, None, None, 537, 635, None, None, None, 184, None, None, None, 645, None, 218]
+Target: 294.6
+
+Test Case 21:
+Tree: [176, 51, 694, None, None, 555, 739, 272, 689, None, 804, None, 449, 652, None, None, 962, 311, None, None, None, 846, 996, None, None, None, 861, None, None, None, 931]
+Target: 325.9
+
+Test Case 22:
+Tree: [638, 416, 811, 12, 440, 723, 981, None, 46, None, 443, None, None, None, None, None, 278, None, None, 55]
+Target: 394.0
+
+Test Case 23:
+Tree: [193, 83, 811, None, 135, 634, None, None, None, 430, 806, 231, 632, 789, None, None, None, 468, None, 682]
+Target: 222.2
+
+Test Case 24:
+Tree: [775, 509, 894, 336, 644, None, 977, 295, 467, 631, 693, 965, None, 62, 333, 433, 498, 606, None, 678, 715, None, None, 18, 209, None, None, 387, None, None, None, 598, 611, 653, 686, 704, 766, None, None, 205, None, None, None, None, None, None, None, 651, 661, None, None, None, None, None, None, 185]
+Target: 529.8
+
+Test Case 25:
+Tree: [296, 182, 662, 3, None, 411, 894, None, None, 339, 455, 726, 979, 297, 384, 421, 659, 698, 840, 958, 987, None, None, 347, 395, None, None, 494, None, None, 708, 805, None, None, 972, 983, None, None, None, None, None, None, 590]
+Target: 249.6
+
+Test Case 26:
+Tree: [103, 32, 806, None, None, 141, 953, 129, 142, 926, None, 123, None, None, 253, 906, None, None, None, 145, 748, None, 925, 143, 221, 415, 762, None, None, None, None, 185, 240, 382, 475, 756, 778, 169, 196, None, None, 299, None, 425, 583, None, None, None, 786, None, None, None, None, 257, 337, None, None, 537, 675, None, None, None, None, None, 362, None, 540, 659, 711, None, None, None, None, 600, None, 690, None, None, 633]
+Target: 852.4
+
+Test Case 27:
+Tree: [726, 452, 851, 82, 712, 834, 867, 81, 201, 655, None, None, None, 855, 904, 44, None, 92, 448, 506, 676, None, None, 869, 966, 27, None, None, 100, 437, None, 476, 603, 671, 686, None, None, None, None, None, None, None, None, 294, None, None, None, 528, None, None, None, None, None, 220, 296, 512, None, None, None, None, 300, None, None, None, 350]
+Target: 234.5
+
+Test Case 28:
+Tree: [900, 259, 972, 113, 670, 929, None, None, None, 414, None, None, None, None, 639, 497, None, None, 607]
+Target: 117.4
+
+Test Case 29:
+Tree: [411, 87, 747, None, 338, 475, 887, 138, 353, 432, 670, 831, 994, None, None, None, None, None, None, 559, None, 819, 837, None, None, 515, None, 807]
+Target: 984.5
+
+Test Case 30:
+Tree: [866, 213, None, 36, 486]
+Target: 491.3
+
+Test Case 31:
+Tree: [197, 164, 961, 151, None, 896, 981, 147, None, 210, 900, None, None, 136, None, 207, 815, None, 908, None, None, None, None, 759, None, None, None, 743, 802, 466, None, None, None, 423, 662, 363, 451, 659, 738, 270, 404, None, 454, None, None, None, None, None, 359]
+Target: 695.5
+
+Test Case 32:
+Tree: [612, 150, 866, 129, 542, 705, 940, 52, None, 166, 582, 618, 756, None, None, 6, 89, None, 533, None, None, None, 694, 753, None, None, 32, None, None, 285, None, 662, None, None, None, None, None, 241, 467, None, None, 182, 278, 287, 512, None, None, None, None, None, 435, 487, 530]
+Target: 130.3
+
+Test Case 33:
+Tree: [215, 84, 726, 72, 164, 246, 884, 61, None, 156, 183, 231, 489, 832, 902, 38, None, None, None, 172, None, None, None, 254, 646, 750, 868, None, 995, None, None, None, None, 251, 272, 581, 677, 733, 820, 852, None, 923, None, None, None, None, 423, 508, 642, 676, None, None, None, 777, 827, None, None, None, None, 283, 464, None, None, 615, None, None, None, None, 789, None, None, 273, 299, None, 478, 586, None, None, 812, None, None, None, 362]
+Target: 259.2
+
+Test Case 34:
+Tree: [671, 90, 977, 47, 108, 702, 980, 39, 64, 91, 166, None, 786, None, None, None, None, None, None, None, 98, 111, 315, 716, 840, None, None, None, 127, 291, 633, None, 754, 800, None, None, None, 236, 314, 538, 641, None, None, None, 829, 181, 288, 293, None, 355, 557, None, 669, None, None, None, None, None, None, None, None, None, 504, None, None, 656, None, 456, 525, None, None, 391, 460, None, None, None, 451, None, 476]
+Target: 395.8
+
+Test Case 35:
+Tree: [454, 392, 459, 372, 449, None, 748, 182, 374, None, None, 612, 857, 112, 334, None, 376, 516, 663, 788, 961, None, None, None, None, None, None, 501, None, 633, 669, 776, 849, 905, None, 469, None, None, None, None, None, 768, None, 805, None, None, 949, None, None, None, None, None, 808]
+Target: 955.3
+
+Test Case 36:
+Tree: [592, 351, 788, 279, 422, 616, 970, 239, 345, 376, 445, None, 684, 944, 991, 66, None, None, 348, None, None, None, 573, 670, 704, 883, None, None, None, 31, 203, None, None, None, None, 631, None, None, 782, 829, 936, None, 64, 138, None, None, None, None, None, None, 879, 895, None, 48, None, None, None, None, None, 894]
+Target: 786.1
+
+Test Case 37:
+Tree: [11, None, 226, 151, 835, 40, 178, 519, 933, 38, 150, None, None, 476, 629, 928, 954, None, None, 86, None, 366, 515, 581, 647, 901, None, None, None, 44, None, 317, 379, 503, None, 580, None, 638, 658, 895, None, None, None, 243, None, None, 440, 477, None, None, None, None, None, None, 661, 880, None, 239, 245]
+Target: 671.2
+
+Test Case 38:
+Tree: [345, 321, 508, 152, 332, 370, 659, 90, 178, 325, None, None, 408, 549, 722, 82, None, 156, 292, None, None, 390, 497, None, None, 679, 735, 61, None, None, None, 257, None, None, 407, 481, None, None, None, 729, 942, None, None, 193, 281, None, None, 460, None, None, None, 857, None, None, 244, None, None, None, None, 855]
+Target: 381.7
+
+Test Case 39:
+Tree: [93, 89, 263, 11, None, 189, 772, None, None, 156, 196, 290, 972, 114, None, None, 249, 285, 511, 882, 997, None, 138, 215, None, None, None, 368, 549, 782, None, 979, None, None, None, None, 219, 360, 468, 517, 550, 779, 802, None, None, None, None, None, None, 410, 504, None, None, None, 652, None, None, None, 815, 381, None, None, None, 558, 767, 804, 860, None, None, None, 639, 713, None, None, None, None, 872, None, None, None, None, None, 875]
+Target: 434.7
+
+Test Case 40:
+Tree: [982, 924, None, 12, 966, None, 445, None, 969, 248, 799, None, None, 131, 313, 796, 823, 104, 143, 311, 414, 513, None, None, 921, None, None, None, None, 260, None, 386, None, 465, 519, None, None, None, None, 366, None, None, 483, None, 630, None, None, None, 497, 520, 757, None, None, None, 591]
+Target: 891.2
+
+Test Case 41:
+Tree: [896, 224, 922, 120, 285, 919, 984, 66, 213, 229, 296, 918, None, 944, None, 53, 89, 181, 214, None, 260, 295, 844, None, None, 929, 980, None, None, None, 110, None, None, None, None, None, None, None, None, 699, 854, None, None, None, None, None, None, 621, 805, None, 886, 538, 682, 769, None, 884, 888, 424, 571, 630, None, 720, None, None, None, None, None, 364, 534, 550, 588, None, None, 717, 744, 335, None, 512, None, 548, None, None, None, None, None, 734, 759, None, None, 471]
+Target: 335.0
+
+Test Case 42:
+Tree: [322, 155, 681, 88, 157, 469, 823, 22, 122, None, 161, 344, 651, 704, 896, 7, None, 119, None, None, 246, None, 404, 649, 672, 693, 775, 881, 954, None, None, None, None, 219, 281, None, 423, None, None, None, None, 685, None, 744, 810, None, None, 899, None, 216, None, None, 305, None, None, None, None, None, None, None, None, None, 917]
+Target: 576.3
+
+Test Case 43:
+Tree: [747, 621, 958, 347, 630, 757, 970, 297, 497, None, 742, None, 815, 963, 975, 11, 331, 391, 549, 670, 746, None, 876, 962, None, None, None, None, 213, None, 344, 350, 393, 519, 615, None, 693, None, None, 845, 942, None, None, 196, None, None, None, None, 358, None, 492, None, None, 562, None, None, 731, None, None, 914, None, 42, 199, None, None, 431, None, 559, None, None, None, None, None, 21, 88, None, 203, 413, 469, None, None, 12, None, 63, 147, None, None, 408, None, None, None, None, None, None, None, 111]
+Target: 580.3
+
+Test Case 44:
+Tree: [184, 109, 368, 48, 122, 295, 417, 12, 103, None, None, 230, 329, 407, 791, None, None, 51, None, 190, 268, 302, 350, 389, None, 584, 889, None, None, None, 226, 231, None, None, None, 330, 356, None, None, 541, 604, 830, 910, None, None, None, 242, None, None, None, None, 452, 548, None, 634, 798, 881, 899, 943, None, None, 439, 499, None, None, None, 703, None, 807, 840, 883, None, None, 928, None, None, None, 466, None, None, None, None, None, None, None, None, None, None, None, None, 493]
+Target: 658.0
+
+Test Case 45:
+Tree: [948, 418, None, 87, 649, 70, 411, 536, 936, None, None, 306, None, None, 563, 669, None, 139, 339, None, None, None, 907, None, 159, None, None, 690, None, None, 206, None, 714, None, None, None, 889]
+Target: 687.0
+
+Test Case 46:
+Tree: [95, 63, 817, 43, 80, 686, 951, 23, 46, None, None, 446, 765, 874, 975, None, None, None, None, 135, 591, 702, 772, 846, 879, 969, 980, None, 206, 545, 597, None, 710, None, None, 837, 866, None, 884, None, None, None, None, 150, 411, 525, 589, None, 683, None, 759, 834, 840, 854, None, None, None, 146, 154, 397, 432, 514, None, 548, None, 676, None, None, 760, None, None, None, None, None, None, None, None, 151, None, 223, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 396]
+Target: 773.4
+
+Test Case 47:
+Tree: [735, 553, 755, 536, 582, 749, 770, 90, None, None, 699, None, None, None, 835, 17, 250, 602, None, None, 861, None, 31, 159, 533, 590, None, None, 949, None, None, 129, 249, 481, None, None, None, None, None, None, None, 212, None, 368, 502, None, None, 258, 425, None, None, None, 321, 373, 466, None, 334, None, None, None, None, 327]
+Target: 60.3
+
+Test Case 48:
+Tree: [512, 154, 774, 21, 196, 555, 791, 14, 52, 162, 420, None, 630, None, 918, None, None, None, 76, 159, 186, 279, 478, 582, 733, 892, 931, None, None, None, None, None, None, 225, 379, None, None, None, 599, 700, 749, None, 897, None, None, 214, None, 361, None, None, None, None, 711]
+Target: 192.5
+
+Test Case 49:
+Tree: [10, None, 28, None, 237, 52, 644, None, 99, 584, 799, 87, 183, 302, 591, 745, 826, None, None, 107, 223, 267, 445, 587, None, 729, 779, None, 869, 100, None, 197, None, 243, None, 363, 475, None, None, 669, None, None, None, 830, 954, None, None, None, None, None, None, 314, 405, 463, 484, 660, None, None, None, 934, None, None, 327, 381, 430, None, None, None, 516, 654, None, 909, 949, None, None, None, None, 412, None, 486, 532, None, None, None, None, None, None, None, 414, None, None, None, 563]
+Target: 533.1
+
+Test Case 50:
+Tree: [419, 290, 828, 40, 385, 588, 979, 3, 285, None, None, 486, 716, None, None, None, None, 54, None, None, None, 693]
+Target: 468.9
+
+Test Case 51:
+Tree: [125, 88, 952, None, None, 676, None, 525, 749, 369, 538, 729, 831, 159, 524, None, 632, None, None, 798, None, None, 163, 393]
+Target: 203.7
+
+Test Case 52:
+Tree: [28, None, 867, 339, 949, 116, 761, None, None, None, None, 694, 769]
+Target: 308.1
+
+Test Case 53:
+Tree: [182, 139, 469, 34, None, 217, 802, None, 136, 205, 438, 562, 843, None, None, None, None, 403, None, None, 577, 823, 953, 366, 426, None, 744, None, None, None, None, 298, None, None, None, 652, None, 224, None, 592]
+Target: 853.7
+
+Test Case 54:
+Tree: [417, 139, 577, 95, None, 506, 945, None, None, 448, 570, 880, None, None, None, None, None, 806, None, 696, None, None, 740]
+Target: 378.7
+
+Test Case 55:
+Tree: [528, 413, 715, 39, 447, 653, 815, 7, 87, 424, 492, 550, 677, 795, 979, None, 8, 40, 172, 417, None, 463, None, 549, 552, None, None, 735, None, 889, None, None, None, None, 49, 120, 272, None, None, None, 470, None, None, None, 589, None, None, 828, 908, None, 81, 118, 142, 229, 346, None, 478, None, 649, 824, None, None, 933, None, None, 105, None, None, None, 214, None, None, None, None, None, None, None, None, None, 915, None, 88, None, None, 221, None, None, None, None, 216]
+Target: 80.8
+
+Test Case 56:
+Tree: [207, 111, 428, 55, None, 387, 528, None, None, 321, None, 466, 802, None, 383, None, None, 719, 961, None, None, 615, 788, 805, 966, 608, 622, None, None, None, 890, None, 987, 593, None, None, 666, 838, None, None, None, None, None, None, None, 809]
+Target: 492.8
+
+Test Case 57:
+Tree: [198, 194, 925, 177, None, 724, 954, 127, None, 656, 735, None, None, 36, 162, 500, 700, None, 872, None, 86, None, None, 471, 538, None, None, 738, 889, None, 99, 223]
+Target: 303.0
+
+Test Case 58:
+Tree: [436, 86, 657, 18, 87, 585, 872, None, 59, None, 191, 492, 655, 670, 932, None, None, 175, 365, None, None, None, None, None, 743, None, 939, 148, 177, 201, 399, None, 785, None, None, 121, None, None, None, None, None, None, 413, None, 857]
+Target: 353.7
+
+Test Case 59:
+Tree: [163, 45, 459, None, 104, 378, 628, None, 136, 251, 422, 472, 689, None, None, 188, 252, None, 442, 464, 559, 687, 802, None, None, None, 260, 434, None, None, None, None, 596, 633, None, 788, 999, None, None, None, None, None, None, None, 660, 721, None, 807, None, None, None, None, None, 804, 899, None, None, None, 929, None, 984]
+Target: 759.2
+
+Test Case 60:
+Tree: [424, 398, 760, 335, None, 741, 781, 265, None, 657, None, None, 954, 163, None, 607, 722, 932, None, 37, None, 595, None, None, 728, None, None, 16, 68, 594, None, None, None, None, None, None, None, 539]
+Target: 754.1
+
+Test Case 61:
+Tree: [312, 174, 736, 155, 258, 469, 868, 97, 166, None, 279, 442, 695, 835, 892, 32, 113, None, 167, None, None, 328, None, 566, 696, 772, None, None, 940, 15, 66, None, None, None, None, None, 377, 509, 578, None, 724, None, 788, 924, None, None, 19, None, None, 375, 417, 473, None, 570, 616, None, 726, None, 816, None, None, None, None, 366, None, 414, None, None, None, None, None, None, None, None, None, None, None, 343]
+Target: 120.6
+
+Test Case 62:
+Tree: [11, None, 342, None, 484]
+Target: 651.9
+
+Test Case 63:
+Tree: [713, 379, 791, 264, 388, None, 828, None, 365, None, 683, None, 967]
+Target: 562.8
+
+Test Case 64:
+Tree: [99, 77, 828, None, 90, 174, 989, None, None, 115, 278, 968, None, None, None, 234, 738, 837, None, None, 242, 607, 826, None, 937, None, None, 399, 720, None, None, None, None, 292, 465, 703, None, None, None, 423, 466, None, 708, None, 427, None, 488, None, None, None, None, None, 491, None, 604]
+Target: 985.8
+
+Test Case 65:
+Tree: [663, 127, 989, 49, 260, 961, None, 37, 94, 136, 502, 861, 978, None, None, 91, None, None, 253, 263, 612, 773, 865, None, None, None, None, 216, None, None, 406, 604, 618, 694, 817, None, 876, 159, None, 315, 434, 590, None, None, None, None, None, None, 858, 868, 935, None, None, 289, 372, None, None, None, None, None, None, None, None, None, None, None, 303]
+Target: 620.1
+
+Test Case 66:
+Tree: [963, 359, 991, 329, 759, None, None, 207, 330, 617, 772, 141, 296, None, None, 504, 663, None, 794, 136, 179, 280, 323, 446, 612, 649, 688, None, 897, 51, None, None, None, 266, None, None, None, None, 503, 568, None, 626, None, None, 751, 844, 928, 23, 78, 216, None, 448, None, None, 580, None, 645, None, None, None, None, None, 943, None, None, None, 84, None, 219, None, None, None, 602, 631, 648, None, None, 80]
+Target: 789.8
+
+Test Case 67:
+Tree: [467, None, 482]
+Target: 205.1
+
+Test Case 68:
+Tree: [838, 778, 903, 92, None, 889, 960, 54, 424, None, None, None, None, None, None, 168, 515, None, 241, 429, 734, 238, 298, None, 445, 730, 777, None, None, None, 399, None, None, 642, None, None, None, None, None, 542, None, None, 599]
+Target: 783.3
+
+Test Case 69:
+Tree: [745, 484, 842, 288, 737, 833, 855, 162, 300, 709, None, 805, None, None, 979, 109, 241, 296, 359, 573, None, 802, None, 942, None, 52, 152, None, None, None, None, None, 411, None, None, None, None, None, 944, None, None, 132, None, 377, None, None, 953, None, None, 367]
+Target: 63.4
+
+Test Case 70:
+Tree: [18, None, 626, 355, 819, 181, 373, 639, 967, 138, 249, 365, 478, None, 793, 935, None, 98, 173, 231, 334, None, None, 450, 556, 690, None, 847, None, 79, 121, 162, None, 226, None, 290, 347, 436, 465, None, 600, 647, 752, 829, 921, 27, None, None, None, None, None, None, None, 277, 325, None, 354, 390, None, None, None, 569, 617, None, None, 733, None, None, 846, 860, None, None, 56, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 858, 881, None, None, None, None, None, 896]
+Target: 743.5
+
+Test Case 71:
+Tree: [220, None, 825, 606, 937, 385, 776, None, None, None, 412]
+Target: 914.9
+
+Test Case 72:
+Tree: [800, 795, 867, 556, None, 822, 959, 371, 694, 819, None, 933, 984, 142, 505, 617, 766, None, None, None, None, None, None, 7, 332, None, None, 595, None, 744, None, None, 129, 143, 364, None, None, None, None, 53, None, None, 239, 363, None, None, None, 160, 299, None, None, None, 235]
+Target: 92.8
+
+Test Case 73:
+Tree: [903, 362, 969, 359, 403, 925, 982, 155, None, None, 804, None, 950, None, None, 122, 262, 673, 827, None, None, 66, None, 234, 337, 419, None, None, None, None, 111, 219, None, 321, None, None, 455, None, None, None, None, None, None, 420, 517]
+Target: 820.6
+
+Test Case 74:
+Tree: [2, None, 909, 883, 995, 363, None, 964, None, 327, 746, 931, 975, 83, 334, 575, 850, 912, None, None, None, 69, 311, None, 347, 543, 688, 780, 857, None, None, 13, None, 185, None, None, None, 537, 571, 674, None, None, None, None, None, None, 44, 136, 272, 388, None, None, None, None, None, None, None, None, None, 251, 292, None, 452, 210, None, None, 305, 450, 497, None, None, None, None, 408, 451]
+Target: 926.5
+
+Test Case 75:
+Tree: [123, 62, 425, 42, None, 367, 774, None, None, 200, 388, 549, 906, None, 340, None, None, None, 586, 806, None, None, None, None, 718]
+Target: 841.2
+
+Test Case 76:
+Tree: [671, 322, 745, 81, 622, None, 913, None, None, 619, 663, 787, 955, 398, None, None, None, 774, None, None, None, None, None, None, 781]
+Target: 173.3
+
+Test Case 77:
+Tree: [852, 443, 904, 216, 469, None, None, 36, 441, None, 815, 6, None, None, None, 713, None, None, None, 689]
+Target: 86.9
+
+Test Case 78:
+Tree: [512]
+Target: 670.0
+
+Test Case 79:
+Tree: [656, 385, 663, 175, 486, None, 764, 95, None, 452, 599, 696, 981, None, None, 425, None, None, None, 693, 708, 778, None, None, None, None, None, None, None, None, 876, None, 907, 885, 973]
+Target: 336.2
+
+Test Case 80:
+Tree: [957, 61, None, 17, 513, None, 19, 511, 858, None, 55, 428, None, 620, 888, None, None, 68, 502, 608, 723, 864, 906, 66, 142, 493, None, 566, 618, 670, 742, None, 884, 895, 949, None, None, 95, 293, None, None, None, None, 614, None, 663, 710, None, 821, 867, None, 893, None, None, None, None, None, 216, 381, None, None, None, None, 677, None, None, 832, None, None, None, None, 182, 279, 371, 389, None, 689, None, None, None, None, 228, None, 342, None, None, None, None, None, None, 258]
+Target: 199.5
+
+Test Case 81:
+Tree: [448, 364, 474, 239, 428, None, 649, 222, 292, 389, None, 614, 683, 192, None, 273, None, None, None, 551, None, None, None, 119, None, None, None, None, None, 85, None, 34]
+Target: 417.9
+
+Test Case 82:
+Tree: [132, 61, 251, 20, None, 238, 599, None, None, None, 242, 280, 825, None, None, None, 420, None, 938, None, None, None, 981, 978]
+Target: 400.5
+
+Test Case 83:
+Tree: [460, 386, 933, None, 395]
+Target: 416.1
+
+Test Case 84:
+Tree: [260, 61, 837, 41, 127, 653, 870, None, None, 81, 234, 487, 741, 844, 985, None, None, 149, 241, 263, 627, 697, 770, None, None, None, None, 131, None, None, None, None, 433, 504, 635, None, 712, None, 781, None, None, 420, None, None, None, None, None, None, None, None, None, 359, 428, 268]
+Target: 446.0
+
+Test Case 85:
+Tree: [797, 305, 834, 210, 486, 833, 854, 39, 263, 348, 692, 798, None, 842, 941, None, 101, None, None, None, 484, 515, 761, None, None, None, None, 879, 977, 94, 176, 470, None, None, 685, None, 780, None, 919, 967, None, 46, None, None, 188, None, None, 619, None, None, None, None, None, 964, None, None, None, 184, None, 577, None, None, None, 183, None, 563, None, None, None, 558]
+Target: 59.2
+
+Test Case 86:
+Tree: [341, 157, 486, 99, 304, 377, 527, 18, 154, 165, None, None, 437, 502, 876, None, None, 132, None, None, None, 381, 446, None, None, 530, 959, None, None, None, None, None, None, None, None, 881, None, None, 889]
+Target: 942.8
+
+Test Case 87:
+Tree: [747, 318, 780, 268, 403, None, 870, 87, 270, 392, 526, 793, 926, 72, 149, None, 307, None, None, 458, 685, None, None, 894, 983, 9, 76, 129, 174, None, None, 407, 498, 593, 745, None, None, None, None, None, 27, 73, 78, None, None, None, 235, None, 447, None, 500, 555, 618, 742, None, 10, None, None, None, None, None, 191, None, None, None, None, None, None, None, None, 671, None, None, None, None, 175, None, 657, None, None, 179]
+Target: 854.4
+
+Test Case 88:
+Tree: [165, 157, 709, 77, None, 558, 747, 27, None, 183, 636, None, 972, None, None, None, None, 611, 659, 801, None, None, None, None, None, 755]
+Target: 258.2
+
+Test Case 89:
+Tree: [227, 202, 473, 38, 206, 370, 681, None, 94, None, None, 309, 405, 647, 713, 92, 148, 302, 349, 386, None, 592, None, None, 855, None, None, 117, None, None, None, None, None, None, None, 491, None, 794, None, None, None, 480, 559, 782, 798, None, None, None, None, 770, 785, None, None, 767]
+Target: 331.6
+
+Test Case 90:
+Tree: [590, 37, 963, None, 114, 820, None, 38, 278, 617, 834, None, 47, 215, 487, 594, 701, None, None, None, None, None, 235, 426, None, None, None, 683, 782, None, 269, 389, None, None, None, 775, 811, None, None, 336, None, None, None, None, None, 290, 341]
+Target: 404.9
+
+Test Case 91:
+Tree: [469, 404, 767, 365, 409, 683, 936, 231, None, None, 410, 552, 688, 902, 948, 162, 310, None, None, 507, 627, None, 743, 897, None, None, None, 34, 206, 287, 358, 473, 515, 623, 663, None, 758, 888, None, 15, 96, 196, None, 238, 308, None, None, None, None, None, None, 599, None, None, 677, None, 761, 866, None, None, None, 88, None, None, None, None, None, None, None, None, None, 676, None, None, None, 772]
+Target: 941.6
+
+Test Case 92:
+Tree: [32, None, 68, 57, 870, None, None, 277, 923, 113, 456, 880, 955, 96, 246, 314, 492, None, None, 926, 979, None, None, 169, 251, None, 454, 480, 836, None, None, None, None, 124, None, None, 263, 438, None, None, None, 762, 846, None, 164, None, 266, None, None, 623, 833, None, None, None, None, None, None, 504, 759, 807, None, 499, 513, 693]
+Target: 928.3
+
+Test Case 93:
+Tree: [176, 41, 467, 35, 85, 363, 927, None, None, 51, 131, 329, 408, 732, 952, None, 76, None, None, 181, 336, 372, 412, 727, 779, None, 999, None, None, None, 286, None, None, None, None, None, 460, 542, None, 757, 820, 981, None, 219, 319, None, None, None, 694, 736, None, 795, 923, None, 993, 189, 263, None, None, None, None, None, 754, None, 799, 888, 926, None, None, None, 195, None, None, None, None, None, None, 875, 896, None, None, None, 211]
+Target: 332.4
+
+Test Case 94:
+Tree: [963, 482, 991, 150, 666, None, None, 93, 253, 626, 770, 68, None, None, 410, 556, 635, 732, None, None, 90, None, None, None, None, None, None, None, 763]
+Target: 899.7
+
+Test Case 95:
+Tree: [233, 218, 611, 201, None, 279, 817, 29, None, None, 474, 737, 936, None, 65, 297, None, 628, 751, 829, None, None, None, 288]
+Target: 563.5
+
+Test Case 96:
+Tree: [743, 731, 911, 325, None, 850, 980, 320, 442, None, 888, None, None, 33, None, 401, 526, 887, None, 12, 34, 387, None, 487, 673, 874, None, None, None, None, 202, None, None, 449, None, 651, 714, None, None, 181, None, None, None, 566, None, 681, 720, 165, None, 559, 644, None, 706, None, None, 158, 168, None, None, None, None, None, None, 112]
+Target: 97.6
+
+Test Case 97:
+Tree: [695, 644, 936, 87, 694, None, 969, 41, 452, 682, None, None, 996, None, None, 273, 493, None, None, None, None, None, 363, None, 585, None, None, 553, 595, None, None, None, 610]
+Target: 707.4
+
+Test Case 98:
+Tree: [304, 34, 686, None, 277, 657, 972, 274, 298, 544, 670, 761, 991, 183, None, None, None, 462, 637, None, 682, 731, 835, None, None, 63, 248, 319, 475, None, None, None, None, 703, None, None, 855, None, 150, None, 260, None, 387, None, None, 696, None, None, 861, None, None, None, None, None, 399, None, None, None, 929, None, 420, 896, 942]
+Target: 910.7
+
+Test Case 99:
+Tree: [283, 16, 552, 2, 263, 285, 692, None, 11, 119, None, None, 491, 641, 861, None, None, 19, 207, 288, 535, 554, None, 777, 924, None, 86, 136, 233, None, 332, None, None, None, 617, None, 858, 914, 973, 83, None, None, None, None, 261, None, 390, 578, None, 781, None, 913, None, None, None, None, None, None, None, None, 451, None, None, None, 829, 907]
+Target: 888.4
+
+Test Case 100:
+Tree: [496, 274, 658, 103, 440, 550, 742, 72, 214, 276, None, 541, 629, 709, 886, 65, 102, 109, None, None, 353, 515, None, 618, 642, 661, None, 825, 973, None, None, None, None, None, 169, 286, None, None, 521, None, 626, 632, None, None, 679, 749, None, 937, 983, 128, None, None, None, None, None, None, None, None, None, 663, 702, None, 778, 928, None, None, None, None, None, None, None, None, None, None, 789]
+Target: 243.9
+
+Test Case 101:
+Tree: [1]
+Target: 1.5
+
+Test Case 102:
+Tree: [1, 0, 2]
+Target: 1.0
+
+Test Case 103:
+Tree: [5, 3, 7, 2, 4, 6, 8]
+Target: 5.0
+
+Test Case 104:
+Tree: [10]
+Target: 1000.0
+
+Test Case 105:
+Tree: [1, 1, 1]
+Target: 1.0
+
+Test Case 106:
+Tree: [1, None, 2]
+Target: 1.5
+
+Test Case 107:
+Tree: [8, 5, 12, 3, 7, 10, 15]
+Target: 6.5
+
+Test Case 108:
+Tree: [20, 10, 30, 5, 15, 25, 35]
+Target: 22
+
+Test Case 109:
+Tree: [3, 2, 5, 1, 4]
+Target: 3.8
+
+Test Case 110:
+Tree: [6, 2, 9, 1, 4, 8, 10]
+Target: 8.3
+

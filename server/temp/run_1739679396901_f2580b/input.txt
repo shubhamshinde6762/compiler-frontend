@@ -1,0 +1,546 @@
+109
+TestCase-1
+654
+1
+[ { "key": "t", "time": 250 } ]
+async function(keys) { return keys.map(key => key + '?'); }
+TestCase-2
+142
+1
+[ { "key": "ckafnafqo", "time": 225 } ]
+async function(keys) { return keys.map(key => key.replace(/a/g, '@')); }
+TestCase-3
+603
+4
+[ { "key": "vqwps", "time": 46 }, { "key": "t", "time": 163 }, { "key": "usnzj", "time": 565 }, { "key": "ieyiccw", "time": 618 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 150)); return keys.map(key => key.split('').sort().join('')); }
+TestCase-4
+233
+4
+[ { "key": "ww", "time": 389 }, { "key": "ejzq", "time": 570 }, { "key": "lvejr", "time": 718 }, { "key": "pe", "time": 746 } ]
+async function(keys) { return keys.map(key => key + '?'); }
+TestCase-5
+701
+5
+[ { "key": "f", "time": 32 }, { "key": "kfzncbcquk", "time": 65 }, { "key": "xqddtot", "time": 438 }, { "key": "kbxosf", "time": 511 }, { "key": "jznzwas", "time": 698 } ]
+async function(keys) { return keys.map(key => key + key.length); }
+TestCase-6
+768
+4
+[ { "key": "wvhbwy", "time": 87 }, { "key": "cllywg", "time": 512 }, { "key": "ncq", "time": 861 }, { "key": "pdtounaia", "time": 951 } ]
+async function(keys) { return keys.map(key => key.slice(1)); }
+TestCase-7
+497
+1
+[ { "key": "tdmogwlfo", "time": 747 } ]
+async function(keys) { return keys.map(key => key + '123'); }
+TestCase-8
+205
+4
+[ { "key": "fdyomuue", "time": 99 }, { "key": "zqlndfi", "time": 602 }, { "key": "ffbqfxwbg", "time": 685 }, { "key": "jkwbqqb", "time": 745 } ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-9
+819
+1
+[ { "key": "ende", "time": 473 } ]
+async function(keys) { return keys.map(key => key + '?'); }
+TestCase-10
+895
+1
+[ { "key": "vwcqoact", "time": 242 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 50)); return keys.map(key => key + key); }
+TestCase-11
+416
+7
+[ { "key": "bf", "time": 271 }, { "key": "gpqkpnyfsg", "time": 405 }, { "key": "fkbjzgul", "time": 433 }, { "key": "rmefbtbib", "time": 488 }, { "key": "aq", "time": 576 }, { "key": "rhi", "time": 769 }, { "key": "xnbnwbbwk", "time": 964 } ]
+async function(keys) { return keys.map(key => key.toUpperCase()); }
+TestCase-12
+955
+5
+[ { "key": "firwngxbqv", "time": 45 }, { "key": "yd", "time": 118 }, { "key": "wj", "time": 161 }, { "key": "te", "time": 288 }, { "key": "vspzravh", "time": 679 } ]
+async function(keys) { return keys.map(key => key + '!'); }
+TestCase-13
+341
+2
+[ { "key": "ovp", "time": 151 }, { "key": "elsoc", "time": 967 } ]
+async function(keys) { return keys.map(key => key.slice(-3)); }
+TestCase-14
+130
+0
+[  ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-15
+373
+0
+[  ]
+async function(keys) { return keys.map(key => key.repeat(3)); }
+TestCase-16
+215
+10
+[ { "key": "rytflyxqr", "time": 127 }, { "key": "nriso", "time": 196 }, { "key": "fvlhufaf", "time": 336 }, { "key": "tygeuekeyu", "time": 421 }, { "key": "lzdxeb", "time": 446 }, { "key": "iawgpzapi", "time": 805 }, { "key": "n", "time": 825 }, { "key": "wzhqk", "time": 863 }, { "key": "gucw", "time": 879 }, { "key": "rjow", "time": 997 } ]
+async function(keys) { return keys.map(key => key.slice(-3)); }
+TestCase-17
+680
+6
+[ { "key": "qho", "time": 0 }, { "key": "cygiud", "time": 47 }, { "key": "hlprm", "time": 452 }, { "key": "hr", "time": 634 }, { "key": "nuyt", "time": 674 }, { "key": "zptl", "time": 907 } ]
+async function(keys) { return keys.map(key => key.replace(/[aeiou]/g, '')); }
+TestCase-18
+589
+3
+[ { "key": "eynb", "time": 255 }, { "key": "mgratuc", "time": 435 }, { "key": "lu", "time": 683 } ]
+async function(keys) { return keys.map(key => key.split('').join(' ')); }
+TestCase-19
+572
+9
+[ { "key": "akoaqdmbj", "time": 216 }, { "key": "hchh", "time": 327 }, { "key": "itjtvgca", "time": 552 }, { "key": "yxpsnv", "time": 561 }, { "key": "xmhmkrusvx", "time": 637 }, { "key": "xtmggqtn", "time": 641 }, { "key": "hkxvnt", "time": 819 }, { "key": "cdjdfkimb", "time": 852 }, { "key": "kuyawom", "time": 965 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-20
+974
+5
+[ { "key": "zca", "time": 319 }, { "key": "fadd", "time": 685 }, { "key": "of", "time": 716 }, { "key": "teptc", "time": 838 }, { "key": "quqt", "time": 972 } ]
+async function(keys) { return keys.map(key => key.padStart(key.length + 2, '*')); }
+TestCase-21
+693
+6
+[ { "key": "efuiws", "time": 282 }, { "key": "sltzhvnm", "time": 446 }, { "key": "uuobnrbqak", "time": 501 }, { "key": "yfpvgsh", "time": 700 }, { "key": "gwvcwgmpja", "time": 871 }, { "key": "lj", "time": 912 } ]
+async function(keys) { return keys.map(key => key + key.length); }
+TestCase-22
+10
+8
+[ { "key": "cahmizgw", "time": 116 }, { "key": "nltishgdf", "time": 122 }, { "key": "hjhs", "time": 129 }, { "key": "qmucfrhp", "time": 484 }, { "key": "kb", "time": 644 }, { "key": "csmt", "time": 707 }, { "key": "bbhyq", "time": 770 }, { "key": "yrethptpz", "time": 852 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 150)); return keys.map(key => key.split('').sort().join('')); }
+TestCase-23
+54
+2
+[ { "key": "vyc", "time": 254 }, { "key": "ok", "time": 610 } ]
+async function(keys) { return keys.map(key => key.padEnd(key.length + 2, '*')); }
+TestCase-24
+231
+8
+[ { "key": "pafrwp", "time": 21 }, { "key": "yf", "time": 216 }, { "key": "reeba", "time": 461 }, { "key": "xlmhkholpx", "time": 752 }, { "key": "llwzhqp", "time": 757 }, { "key": "beh", "time": 766 }, { "key": "mahhwbggup", "time": 823 }, { "key": "loqx", "time": 846 } ]
+async function(keys) { return keys.map(key => key.slice(0, -1)); }
+TestCase-25
+688
+4
+[ { "key": "bnqmlbg", "time": 134 }, { "key": "btmqxepqmc", "time": 356 }, { "key": "acgduwvaw", "time": 473 }, { "key": "irwishy", "time": 833 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-26
+448
+7
+[ { "key": "siak", "time": 230 }, { "key": "msn", "time": 279 }, { "key": "whu", "time": 424 }, { "key": "ynvhhp", "time": 675 }, { "key": "aq", "time": 818 }, { "key": "ld", "time": 852 }, { "key": "vzgojxn", "time": 900 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 200)); return keys.map(key => key + '.'); }
+TestCase-27
+886
+2
+[ { "key": "oioolies", "time": 585 }, { "key": "gubtsvk", "time": 679 } ]
+async function(keys) { return keys.map(key => key.replace(/[aeiou]/g, '')); }
+TestCase-28
+155
+7
+[ { "key": "jistwabqx", "time": 232 }, { "key": "lc", "time": 648 }, { "key": "icvcxadwzb", "time": 800 }, { "key": "b", "time": 815 }, { "key": "isqww", "time": 879 }, { "key": "ls", "time": 925 }, { "key": "d", "time": 988 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-29
+300
+5
+[ { "key": "qgxdlgg", "time": 9 }, { "key": "xrelipql", "time": 256 }, { "key": "vfkmgooz", "time": 302 }, { "key": "lgkree", "time": 624 }, { "key": "z", "time": 674 } ]
+async function(keys) { return keys.map(key => key.substring(0, 3)); }
+TestCase-30
+281
+0
+[  ]
+async function(keys) { return keys.map(key => key.padStart(key.length + 2, '*')); }
+TestCase-31
+885
+10
+[ { "key": "cgawox", "time": 226 }, { "key": "qxq", "time": 316 }, { "key": "qm", "time": 717 }, { "key": "x", "time": 763 }, { "key": "vxufufeg", "time": 773 }, { "key": "wszz", "time": 823 }, { "key": "nxvgvm", "time": 825 }, { "key": "ajdxikfu", "time": 897 }, { "key": "juanlrrpv", "time": 962 }, { "key": "ticzd", "time": 989 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-32
+664
+6
+[ { "key": "cfqzbizu", "time": 210 }, { "key": "dy", "time": 311 }, { "key": "dgnkjyso", "time": 601 }, { "key": "xrv", "time": 630 }, { "key": "yhrflgj", "time": 702 }, { "key": "ozjked", "time": 868 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-33
+849
+8
+[ { "key": "mx", "time": 75 }, { "key": "id", "time": 129 }, { "key": "awddgeraau", "time": 243 }, { "key": "qpsjp", "time": 301 }, { "key": "iebtntmunc", "time": 515 }, { "key": "ybuw", "time": 533 }, { "key": "lzbmk", "time": 702 }, { "key": "pvgu", "time": 807 } ]
+async function(keys) { return keys.map(key => key.replace(/a/g, '@')); }
+TestCase-34
+517
+9
+[ { "key": "byorkwykx", "time": 52 }, { "key": "jo", "time": 117 }, { "key": "tj", "time": 133 }, { "key": "pjpfr", "time": 229 }, { "key": "kvks", "time": 320 }, { "key": "igyrmcc", "time": 442 }, { "key": "cswqtsf", "time": 462 }, { "key": "ouvzv", "time": 628 }, { "key": "ayvgesiia", "time": 890 } ]
+async function(keys) { return keys.map(key => key.toUpperCase()); }
+TestCase-35
+579
+10
+[ { "key": "btzcnjl", "time": 161 }, { "key": "at", "time": 179 }, { "key": "vxcvgpnk", "time": 317 }, { "key": "mrbkpahfdg", "time": 335 }, { "key": "bwbaxw", "time": 589 }, { "key": "oskcaiu", "time": 632 }, { "key": "bcllpkfnic", "time": 694 }, { "key": "iiypwe", "time": 772 }, { "key": "fubqnf", "time": 794 }, { "key": "jsn", "time": 853 } ]
+async function(keys) { return keys.map(key => key.repeat(3)); }
+TestCase-36
+359
+10
+[ { "key": "il", "time": 58 }, { "key": "ouxlvqimdb", "time": 105 }, { "key": "ok", "time": 258 }, { "key": "pjxkurbqi", "time": 337 }, { "key": "vbwwpn", "time": 473 }, { "key": "dblhhb", "time": 519 }, { "key": "zcqbsz", "time": 536 }, { "key": "gdf", "time": 616 }, { "key": "tre", "time": 791 }, { "key": "moprwqzi", "time": 994 } ]
+async function(keys) { return keys.map(key => key.slice(1)); }
+TestCase-37
+872
+10
+[ { "key": "aitdjevuv", "time": 169 }, { "key": "bjszptug", "time": 244 }, { "key": "mhjnzvud", "time": 256 }, { "key": "ocvwht", "time": 279 }, { "key": "wipdjzskpy", "time": 317 }, { "key": "juvrvtrnq", "time": 433 }, { "key": "zuxfr", "time": 584 }, { "key": "no", "time": 756 }, { "key": "jjefymfdc", "time": 864 }, { "key": "q", "time": 895 } ]
+async function(keys) { return keys.map(key => key.replace(/a/g, '@')); }
+TestCase-38
+927
+8
+[ { "key": "yplugdgqq", "time": 64 }, { "key": "af", "time": 153 }, { "key": "xykkjkcf", "time": 326 }, { "key": "vm", "time": 548 }, { "key": "dhv", "time": 712 }, { "key": "vq", "time": 810 }, { "key": "vcx", "time": 836 }, { "key": "tmp", "time": 927 } ]
+async function(keys) { return keys.map(key => key + '!'); }
+TestCase-39
+647
+8
+[ { "key": "bov", "time": 179 }, { "key": "ut", "time": 340 }, { "key": "maqhwbrhu", "time": 447 }, { "key": "gdlpgkrczb", "time": 538 }, { "key": "it", "time": 643 }, { "key": "nzokmqzga", "time": 807 }, { "key": "zmedsyaf", "time": 810 }, { "key": "xiik", "time": 834 } ]
+async function(keys) { return keys.map(key => key.substring(0, 3)); }
+TestCase-40
+761
+7
+[ { "key": "lz", "time": 184 }, { "key": "d", "time": 241 }, { "key": "plqubr", "time": 415 }, { "key": "ierjugc", "time": 434 }, { "key": "nteawr", "time": 448 }, { "key": "jyadlj", "time": 454 }, { "key": "hcihlsell", "time": 744 } ]
+async function(keys) { return keys.map(key => key.slice(0, -1)); }
+TestCase-41
+78
+9
+[ { "key": "und", "time": 205 }, { "key": "nkq", "time": 255 }, { "key": "vz", "time": 327 }, { "key": "dwlx", "time": 455 }, { "key": "xdusfps", "time": 502 }, { "key": "ae", "time": 530 }, { "key": "gmj", "time": 586 }, { "key": "sohhes", "time": 717 }, { "key": "mzdwbk", "time": 734 } ]
+async function(keys) { return keys.map(key => key.slice(1)); }
+TestCase-42
+490
+8
+[ { "key": "lxb", "time": 127 }, { "key": "wuq", "time": 186 }, { "key": "tvbzqlr", "time": 352 }, { "key": "hymurhbbl", "time": 495 }, { "key": "iybwcyugfo", "time": 632 }, { "key": "m", "time": 642 }, { "key": "deisiyxvg", "time": 650 }, { "key": "hqpcqppeq", "time": 923 } ]
+async function(keys) { return keys.map(key => key.replace(/a/g, '@')); }
+TestCase-43
+208
+5
+[ { "key": "eezmwm", "time": 92 }, { "key": "dwiziktncg", "time": 125 }, { "key": "ldbyw", "time": 428 }, { "key": "nzfjbmw", "time": 669 }, { "key": "zxvy", "time": 738 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 150)); return keys.map(key => key.split('').sort().join('')); }
+TestCase-44
+481
+4
+[ { "key": "ojdpkb", "time": 39 }, { "key": "sun", "time": 152 }, { "key": "acdgjkbbo", "time": 371 }, { "key": "hklovqpdc", "time": 382 } ]
+async function(keys) { return keys.map(key => key.padEnd(key.length + 2, '*')); }
+TestCase-45
+914
+8
+[ { "key": "p", "time": 271 }, { "key": "el", "time": 428 }, { "key": "pnnmo", "time": 486 }, { "key": "kfn", "time": 626 }, { "key": "ipe", "time": 631 }, { "key": "j", "time": 689 }, { "key": "zp", "time": 815 }, { "key": "pspeqqvdra", "time": 970 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 200)); return keys.map(key => key + '.'); }
+TestCase-46
+893
+0
+[  ]
+async function(keys) { return keys.map(key => key + '123'); }
+TestCase-47
+141
+8
+[ { "key": "hooxk", "time": 353 }, { "key": "hhs", "time": 354 }, { "key": "usrmm", "time": 573 }, { "key": "lno", "time": 692 }, { "key": "rtfvhohc", "time": 758 }, { "key": "ozmj", "time": 979 }, { "key": "gbxfgcimrd", "time": 987 }, { "key": "pegof", "time": 996 } ]
+async function(keys) { return keys.map(key => key + key.length); }
+TestCase-48
+951
+2
+[ { "key": "qwmqthh", "time": 60 }, { "key": "qg", "time": 756 } ]
+async function(keys) { return keys.map(key => key.slice(1)); }
+TestCase-49
+870
+0
+[  ]
+async function(keys) { await new Promise(res => setTimeout(res, 50)); return keys.map(key => key + key); }
+TestCase-50
+427
+2
+[ { "key": "etwhahpy", "time": 343 }, { "key": "z", "time": 406 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-51
+465
+10
+[ { "key": "credig", "time": 267 }, { "key": "nn", "time": 370 }, { "key": "mlz", "time": 382 }, { "key": "bdhk", "time": 514 }, { "key": "ewxv", "time": 527 }, { "key": "sxtuvtr", "time": 610 }, { "key": "aih", "time": 690 }, { "key": "gtyhsaq", "time": 709 }, { "key": "nxdnhvitq", "time": 735 }, { "key": "rqyjf", "time": 980 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-52
+939
+9
+[ { "key": "dkooriag", "time": 3 }, { "key": "smxl", "time": 56 }, { "key": "pbib", "time": 61 }, { "key": "odin", "time": 119 }, { "key": "zm", "time": 293 }, { "key": "edqszjx", "time": 459 }, { "key": "bo", "time": 517 }, { "key": "jrroqje", "time": 550 }, { "key": "nsfaahr", "time": 557 } ]
+async function(keys) { return keys.map(key => key.slice(-3)); }
+TestCase-53
+544
+6
+[ { "key": "g", "time": 68 }, { "key": "k", "time": 239 }, { "key": "ar", "time": 629 }, { "key": "pl", "time": 688 }, { "key": "fwbnhvtip", "time": 688 }, { "key": "gjhy", "time": 742 } ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-54
+242
+4
+[ { "key": "znk", "time": 281 }, { "key": "yruikd", "time": 385 }, { "key": "o", "time": 605 }, { "key": "qlm", "time": 995 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 50)); return keys.map(key => key + key); }
+TestCase-55
+772
+8
+[ { "key": "kgi", "time": 80 }, { "key": "wcsegrpw", "time": 192 }, { "key": "xjkofd", "time": 267 }, { "key": "gfwdmbkk", "time": 542 }, { "key": "xsskgihm", "time": 664 }, { "key": "ypkdijvmr", "time": 701 }, { "key": "somwiyayzd", "time": 772 }, { "key": "ijwmus", "time": 779 } ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-56
+263
+7
+[ { "key": "bdfl", "time": 61 }, { "key": "qyxrankasn", "time": 293 }, { "key": "yr", "time": 782 }, { "key": "uxccden", "time": 834 }, { "key": "n", "time": 859 }, { "key": "k", "time": 862 }, { "key": "ltjdoexz", "time": 980 } ]
+async function(keys) { return keys.map(key => key.repeat(3)); }
+TestCase-57
+273
+6
+[ { "key": "xx", "time": 235 }, { "key": "c", "time": 388 }, { "key": "jk", "time": 578 }, { "key": "obaemlu", "time": 579 }, { "key": "zfrw", "time": 669 }, { "key": "xroh", "time": 946 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-58
+700
+4
+[ { "key": "oayiyptsk", "time": 78 }, { "key": "egvkx", "time": 339 }, { "key": "vity", "time": 406 }, { "key": "tdzsnzb", "time": 447 } ]
+async function(keys) { return keys.map(key => key.slice(0, -1)); }
+TestCase-59
+334
+0
+[  ]
+async function(keys) { return keys.map(key => key.replace(/[aeiou]/g, '')); }
+TestCase-60
+279
+7
+[ { "key": "tic", "time": 5 }, { "key": "so", "time": 248 }, { "key": "fojepjuh", "time": 252 }, { "key": "nreggdehhu", "time": 369 }, { "key": "ltccl", "time": 570 }, { "key": "ce", "time": 728 }, { "key": "nccopuwak", "time": 797 } ]
+async function(keys) { return keys.map(key => key.toLowerCase()); }
+TestCase-61
+966
+3
+[ { "key": "ivwzdiyf", "time": 321 }, { "key": "pfchyiqu", "time": 337 }, { "key": "zzh", "time": 711 } ]
+async function(keys) { return keys.map(key => key.replace(/[aeiou]/g, '')); }
+TestCase-62
+502
+9
+[ { "key": "fzetasyfuv", "time": 70 }, { "key": "dy", "time": 145 }, { "key": "epoqqz", "time": 339 }, { "key": "ccftorf", "time": 383 }, { "key": "rdhgelj", "time": 459 }, { "key": "mknxroujxn", "time": 653 }, { "key": "cg", "time": 680 }, { "key": "mrrdzmh", "time": 942 }, { "key": "ihuj", "time": 954 } ]
+async function(keys) { return keys.map(key => key.repeat(3)); }
+TestCase-63
+319
+5
+[ { "key": "ai", "time": 111 }, { "key": "qerktwl", "time": 439 }, { "key": "ytn", "time": 565 }, { "key": "unjcslbb", "time": 727 }, { "key": "ilm", "time": 816 } ]
+async function(keys) { return keys.map(key => key.substring(0, 3)); }
+TestCase-64
+4
+3
+[ { "key": "eilgwnqpp", "time": 601 }, { "key": "jv", "time": 632 }, { "key": "hsup", "time": 818 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 50)); return keys.map(key => key + key); }
+TestCase-65
+833
+10
+[ { "key": "eltto", "time": 115 }, { "key": "xprig", "time": 119 }, { "key": "omd", "time": 322 }, { "key": "qwymfjoq", "time": 418 }, { "key": "okm", "time": 550 }, { "key": "kvmcathh", "time": 550 }, { "key": "jdk", "time": 610 }, { "key": "lz", "time": 794 }, { "key": "hzlj", "time": 836 }, { "key": "cuvjvbsozc", "time": 849 } ]
+async function(keys) { return keys.map(key => key + '?'); }
+TestCase-66
+214
+9
+[ { "key": "mpgklqw", "time": 95 }, { "key": "wukzvm", "time": 330 }, { "key": "o", "time": 545 }, { "key": "tl", "time": 680 }, { "key": "gsv", "time": 779 }, { "key": "nhyjyia", "time": 792 }, { "key": "wplquv", "time": 824 }, { "key": "zrczuxzwd", "time": 886 }, { "key": "pezho", "time": 975 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-67
+345
+8
+[ { "key": "pnl", "time": 8 }, { "key": "cjcrq", "time": 53 }, { "key": "qstlccf", "time": 79 }, { "key": "dwuxtbqvay", "time": 161 }, { "key": "cj", "time": 306 }, { "key": "jvw", "time": 656 }, { "key": "vzkdbj", "time": 748 }, { "key": "lzlzxwhw", "time": 897 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 150)); return keys.map(key => key.split('').sort().join('')); }
+TestCase-68
+146
+1
+[ { "key": "opejftxql", "time": 222 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-69
+918
+1
+[ { "key": "tpj", "time": 986 } ]
+async function(keys) { return keys.map(key => key.slice(-3)); }
+TestCase-70
+322
+2
+[ { "key": "urwrh", "time": 530 }, { "key": "hcop", "time": 622 } ]
+async function(keys) { return keys.map(key => key.padEnd(key.length + 2, '*')); }
+TestCase-71
+521
+3
+[ { "key": "nz", "time": 369 }, { "key": "hbxymcm", "time": 608 }, { "key": "dwojrt", "time": 977 } ]
+async function(keys) { return keys.map(key => key.slice(0, -1)); }
+TestCase-72
+74
+0
+[  ]
+async function(keys) { return keys.map(key => key.padStart(key.length + 2, '*')); }
+TestCase-73
+69
+0
+[  ]
+async function(keys) { return keys.map(key => key.toLowerCase()); }
+TestCase-74
+220
+0
+[  ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-75
+971
+6
+[ { "key": "hstlkqndc", "time": 80 }, { "key": "dss", "time": 167 }, { "key": "xzeiptqqi", "time": 447 }, { "key": "bcll", "time": 623 }, { "key": "i", "time": 759 }, { "key": "ynusedug", "time": 907 } ]
+async function(keys) { return keys.map(key => String(key.length)); }
+TestCase-76
+789
+0
+[  ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-77
+826
+6
+[ { "key": "fn", "time": 45 }, { "key": "g", "time": 483 }, { "key": "ngzqm", "time": 523 }, { "key": "fgxivod", "time": 689 }, { "key": "bweeux", "time": 690 }, { "key": "jdywox", "time": 758 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-78
+183
+3
+[ { "key": "zybmhvioa", "time": 205 }, { "key": "ohqmp", "time": 505 }, { "key": "toud", "time": 954 } ]
+async function(keys) { return keys.map(key => key.slice(-3)); }
+TestCase-79
+24
+3
+[ { "key": "kyzd", "time": 286 }, { "key": "jvwyarwsc", "time": 542 }, { "key": "bg", "time": 865 } ]
+async function(keys) { return keys.map(key => key.split('').join(' ')); }
+TestCase-80
+422
+5
+[ { "key": "knzfig", "time": 122 }, { "key": "ee", "time": 477 }, { "key": "stihbfu", "time": 598 }, { "key": "ggi", "time": 820 }, { "key": "zccdvbol", "time": 987 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-81
+161
+10
+[ { "key": "qmwm", "time": 89 }, { "key": "vsbvi", "time": 93 }, { "key": "mjljxhl", "time": 152 }, { "key": "gmudavzdv", "time": 381 }, { "key": "vcwvdyby", "time": 443 }, { "key": "p", "time": 631 }, { "key": "akl", "time": 766 }, { "key": "pg", "time": 832 }, { "key": "zkbh", "time": 839 }, { "key": "ab", "time": 924 } ]
+async function(keys) { return keys.map(key => key.toLowerCase()); }
+TestCase-82
+392
+2
+[ { "key": "muioih", "time": 26 }, { "key": "fxnquuz", "time": 800 } ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-83
+611
+3
+[ { "key": "x", "time": 797 }, { "key": "crg", "time": 835 }, { "key": "bzntz", "time": 997 } ]
+async function(keys) { return keys.map(key => key.slice(1)); }
+TestCase-84
+57
+3
+[ { "key": "wujvvepusx", "time": 28 }, { "key": "imcgfnaxf", "time": 133 }, { "key": "yooezw", "time": 504 } ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-85
+734
+2
+[ { "key": "bdsdcn", "time": 373 }, { "key": "jy", "time": 405 } ]
+async function(keys) { return keys.map(key => key.padStart(key.length + 2, '*')); }
+TestCase-86
+103
+5
+[ { "key": "kzzapxzfoy", "time": 144 }, { "key": "jth", "time": 181 }, { "key": "iztlq", "time": 498 }, { "key": "ezsyuf", "time": 603 }, { "key": "y", "time": 971 } ]
+async function(keys) { return keys.map(key => key + '-' + key); }
+TestCase-87
+763
+1
+[ { "key": "jiqz", "time": 841 } ]
+async function(keys) { return keys.map(key => key + '123'); }
+TestCase-88
+686
+10
+[ { "key": "lggbgc", "time": 1 }, { "key": "hckom", "time": 55 }, { "key": "tox", "time": 95 }, { "key": "qzm", "time": 118 }, { "key": "acvqmc", "time": 211 }, { "key": "ecfesss", "time": 271 }, { "key": "qrebvhiybe", "time": 384 }, { "key": "k", "time": 750 }, { "key": "zwmjocm", "time": 884 }, { "key": "ppmaye", "time": 911 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-89
+803
+6
+[ { "key": "dylyeffbcr", "time": 206 }, { "key": "mrcoexjl", "time": 269 }, { "key": "mfgbtrci", "time": 554 }, { "key": "oghkwaon", "time": 585 }, { "key": "zpovvkn", "time": 887 }, { "key": "vgx", "time": 936 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-90
+89
+6
+[ { "key": "yo", "time": 103 }, { "key": "kihlwuqnk", "time": 424 }, { "key": "mekqrkkwrb", "time": 486 }, { "key": "xavhh", "time": 503 }, { "key": "wwwgr", "time": 585 }, { "key": "dpt", "time": 962 } ]
+async function(keys) { return keys.map(key => key + '123'); }
+TestCase-91
+701
+1
+[ { "key": "dzlv", "time": 275 } ]
+async function(keys) { return keys.map(key => key.slice(1)); }
+TestCase-92
+426
+9
+[ { "key": "shvnqd", "time": 31 }, { "key": "dwwafvv", "time": 255 }, { "key": "wqrg", "time": 419 }, { "key": "ttwvnei", "time": 518 }, { "key": "jpew", "time": 600 }, { "key": "autaxqpag", "time": 824 }, { "key": "ef", "time": 843 }, { "key": "l", "time": 940 }, { "key": "jextrhkeo", "time": 988 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-93
+729
+10
+[ { "key": "nvvwec", "time": 131 }, { "key": "mi", "time": 283 }, { "key": "vkcnrvjqp", "time": 305 }, { "key": "rsrzgk", "time": 397 }, { "key": "isrq", "time": 487 }, { "key": "p", "time": 585 }, { "key": "soxyx", "time": 670 }, { "key": "xuup", "time": 676 }, { "key": "ljjgm", "time": 693 }, { "key": "wgsxhd", "time": 783 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-94
+227
+5
+[ { "key": "umq", "time": 181 }, { "key": "thui", "time": 266 }, { "key": "hbwdfkoxl", "time": 323 }, { "key": "hwmwpybxnw", "time": 390 }, { "key": "qahtet", "time": 501 } ]
+async function(keys) { return keys.map(key => key.slice(0, -1)); }
+TestCase-95
+798
+1
+[ { "key": "pqk", "time": 988 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 200)); return keys.map(key => key + '.'); }
+TestCase-96
+392
+0
+[  ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-97
+546
+3
+[ { "key": "fwic", "time": 515 }, { "key": "yxtnaa", "time": 751 }, { "key": "hbbylnnlrd", "time": 923 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 200)); return keys.map(key => key + '.'); }
+TestCase-98
+367
+3
+[ { "key": "jq", "time": 38 }, { "key": "sdtp", "time": 173 }, { "key": "yxk", "time": 233 } ]
+async function(keys) { return keys.map(key => key.substring(0, 3)); }
+TestCase-99
+897
+10
+[ { "key": "b", "time": 118 }, { "key": "dcnscggz", "time": 303 }, { "key": "puvz", "time": 366 }, { "key": "ldgsfra", "time": 430 }, { "key": "hu", "time": 509 }, { "key": "rh", "time": 620 }, { "key": "kxn", "time": 632 }, { "key": "xv", "time": 685 }, { "key": "hbmfyia", "time": 687 }, { "key": "uqpbc", "time": 856 } ]
+async function(keys) { return keys.map(key => key.toLowerCase()); }
+TestCase-100
+475
+0
+[  ]
+async function(keys) { return keys.map(key => String(key.length)); }
+TestCase-101
+832
+0
+[  ]
+async function(keys) { await new Promise(res => setTimeout(res, 50)); return keys.map(key => key + key); }
+TestCase-102
+0
+1
+[ { "key": "edge", "time": 100 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-103
+1000
+1
+[ { "key": "max", "time": 500 } ]
+async function(keys) { return keys.map(key => `(${key})`); }
+TestCase-104
+368
+3
+[ { "key": "first", "time": 300 }, { "key": "second", "time": 300 }, { "key": "third", "time": 300 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 150)); return keys.map(key => key.split('').sort().join('')); }
+TestCase-105
+320
+2
+[ { "key": "a", "time": 100 }, { "key": "ldwxadqixygtjicklvrmkxedszvcxmolpupwwsxmmxlbrawntsfywnrqlsmrqdvxpaynmmetiihnojvclocmiztakaovuzqxorli", "time": 200 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-106
+100
+3
+[ { "key": "a", "time": 10 }, { "key": "b", "time": 20 }, { "key": "c", "time": 30 } ]
+async function(keys) { return keys.map(key => key + '!'); }
+TestCase-107
+100
+3
+[ { "key": "a", "time": 10 }, { "key": "b", "time": 20 }, { "key": "c", "time": 30 } ]
+async function(keys) { await new Promise(res => setTimeout(res, 100)); return keys.map(key => key + '!'); }
+TestCase-108
+100
+6
+[ { "key": "a", "time": 10 }, { "key": "b", "time": 20 }, { "key": "c", "time": 30 }, { "key": "d", "time": 40 }, { "key": "e", "time": 250 }, { "key": "f", "time": 300 } ]
+async function(keys) { await new Promise(res => setTimeout(res, keys.length * 100)); return keys.map(key => key + '!'); }
+TestCase-109
+200
+4
+[ { "key": "alpha", "time": 0 }, { "key": "beta", "time": 150 }, { "key": "gamma", "time": 250 }, { "key": "delta", "time": 450 } ]
+async function(keys) { return keys.map(key => String(key.length)); }

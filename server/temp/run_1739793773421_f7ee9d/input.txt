@@ -1,0 +1,313 @@
+104
+TestCase-1
+24
+TwoSum() add(-972419) add(848131) add(-514859) add(342664) find(951370) add(328558) add(-727557) add(939958) add(324897) find(1957798) find(-517005) find(-1164838) find(295952) find(-1089432) find(-182194) add(716657) find(-329556) find(-1663282) add(-739594) find(357083) add(831166) add(-467500) find(-988116) find(-284618)
+TestCase-2
+36
+TwoSum() add(305255) add(494935) add(576264) add(-120267) add(608629) add(-521402) find(264240) find(305525) add(649191) add(-507931) add(-841828) add(-24944) find(457469) find(1192485) add(-242937) find(1016016) find(-1690915) add(-736948) add(-517283) find(-1958009) find(-1187855) find(-62018) find(-409849) add(-96510) find(1682820) find(720831) add(389400) add(766508) add(565359) add(-886361) add(181969) find(-1732632) find(711034) add(189098) add(366268) find(542106)
+TestCase-3
+37
+TwoSum() add(345500) find(455050) add(605707) find(-255494) add(657537) add(-352679) find(-1004319) find(-1437145) find(589593) find(-1366087) add(506754) find(1608900) find(466) find(-1480262) find(559706) find(-1844388) find(-271086) add(-414836) add(-564301) find(-909511) find(663887) add(-625997) find(1064865) add(694866) add(-985331) find(-402802) find(1155671) find(-1372743) add(477856) add(409841) add(354461) find(-995416) find(-318842) find(-1878046) find(-1354398) find(-804396) add(308256)
+TestCase-4
+31
+TwoSum() add(72899) find(688616) add(-248180) find(-790001) find(206230) find(-1575715) find(-1427717) find(-1686566) find(118710) add(198386) add(178304) add(-413500) find(-420797) add(-519804) add(-4635) add(163524) find(600647) add(98668) add(-431075) add(698442) find(-1021618) add(844838) add(-95617) find(1147828) find(-1196727) find(-1587446) find(-805905) add(651891) find(1886807) find(1686033) find(422564)
+TestCase-5
+10
+TwoSum() add(-544913) find(-1458509) find(-340785) find(-1230669) find(202676) find(1227408) find(-109788) find(-1676754) find(-1628989) add(-612427)
+TestCase-6
+11
+TwoSum() add(628736) add(988400) add(-290727) find(784943) find(1330369) add(978912) find(601591) find(1096804) add(-448020) find(-778923) add(235285)
+TestCase-7
+30
+TwoSum() add(-549197) find(1741589) add(579985) add(-571715) add(660253) add(-802657) find(368621) find(-1009305) find(-459658) find(-625357) find(689302) find(-1990012) add(476020) find(-69652) add(-447089) find(-447644) add(547437) find(1173456) add(414724) find(13172) add(-511925) add(494880) add(-201699) add(-244373) find(-1433579) find(-916612) find(-1499629) find(-246416) find(-1868205) add(-899638)
+TestCase-8
+20
+TwoSum() add(880387) add(330552) add(769506) add(-644000) find(-1467421) add(-850058) find(-1206362) add(474692) add(724036) find(269264) add(681542) add(-978383) add(-302015) add(849826) add(408169) find(-457428) find(1938646) find(534261) add(-938101) find(282540)
+TestCase-9
+3
+TwoSum() add(-780485) find(1694668) add(200110)
+TestCase-10
+48
+TwoSum() add(361066) add(-846469) add(-872401) add(275750) find(45624) add(-821443) add(573108) add(825887) add(166874) add(268096) add(484005) find(1194937) add(-967670) add(31206) add(-422406) find(1529252) add(127461) find(-339924) add(-868105) find(762172) find(1806623) find(221963) add(-677501) add(273669) add(619887) add(-902993) find(-1247512) find(-1277350) add(96705) add(610871) add(106097) add(-922161) add(-277720) add(-778674) add(-969368) find(-374202) add(376833) add(-311213) add(-65880) add(-385256) add(850809) add(859505) add(-732499) find(185912) find(-708036) add(-754576) add(134349) find(-98837)
+TestCase-11
+46
+TwoSum() add(53311) find(-968494) find(1145600) find(-948981) find(-88231) add(510008) find(1341445) add(667514) add(-153123) add(879475) find(1818797) find(1677021) add(299379) find(67667) find(117766) find(729978) add(-818661) add(-655193) find(1230425) add(-723568) add(248696) find(457919) find(-104528) find(-1603321) add(55010) add(-35833) find(-766348) find(877436) find(-825616) find(-1777813) find(-590509) find(744988) add(-530956) find(-33536) add(-9689) add(-900032) find(742116) add(957377) add(-284560) add(141720) add(837554) add(497573) add(740035) add(33555) find(-73063) add(-214935)
+TestCase-12
+47
+TwoSum() add(-444230) add(12731) find(1665236) add(-844749) add(864230) find(-451606) find(-1891073) add(956199) add(561132) find(1710203) add(-696597) find(-1188176) find(876412) find(-1320343) find(-877891) add(720890) find(-270241) find(1808255) find(1638694) find(-783108) find(-1332556) find(-1146219) find(-1781794) find(-1123986) add(-125068) add(962526) find(-1119020) add(-234001) find(347440) find(-634295) add(-881287) find(-1227466) add(-904102) find(1257540) add(798263) find(-1211806) add(-255137) add(-431689) add(119531) add(-128017) find(1380923) add(-821356) add(201197) find(1456385) add(-942900) find(817695) find(-1463559)
+TestCase-13
+37
+TwoSum() add(-144375) find(1405671) find(1264043) add(961915) find(-489346) add(-63914) find(-1886989) find(534113) find(-246245) find(1917805) find(-143705) add(217690) find(-715803) add(544320) find(179304) add(-133404) find(411820) find(-938545) find(-1264121) add(914373) add(977622) add(-125728) find(97457) add(862058) add(-89280) add(542972) find(283852) find(-1973638) add(-928590) find(-298370) add(616808) find(247674) add(203065) add(-236808) find(-720787) add(525092) find(-1406014)
+TestCase-14
+47
+TwoSum() add(279410) add(-888028) find(1096643) find(-1057895) add(302214) add(933278) find(1374307) find(-306454) find(-60128) find(-1449799) find(-1838670) add(204517) find(348072) add(749847) find(1694310) add(-836807) add(-16130) add(-44967) find(-424028) find(99253) find(-331594) find(-235469) find(-519946) add(497922) find(-1615012) add(892774) find(778323) add(-432265) add(562287) add(-800520) find(1255236) add(943539) add(-381907) add(-691226) find(53425) add(-787575) add(478637) add(868143) find(642352) add(229361) add(-417270) find(-287875) add(-94266) add(17786) find(-158142) add(89376) add(-917859)
+TestCase-15
+14
+TwoSum() add(726282) add(-670683) find(-1032423) find(704962) find(1545457) find(1726404) find(-225839) find(-483008) add(-287254) add(-383345) add(-228425) add(269279) add(-152438) find(-1721663)
+TestCase-16
+26
+TwoSum() add(-377114) find(-1257523) add(903880) find(-354461) find(-1657076) add(784001) find(1403705) find(-1397623) add(211308) add(-110250) add(-268629) add(-823764) add(-234491) find(1868265) find(-233721) find(815497) add(887686) add(516844) add(-639952) find(-1683940) find(1177129) add(-281689) find(992935) add(-454192) find(1133328) add(531544)
+TestCase-17
+11
+TwoSum() add(758370) find(23000) find(-1797479) find(-1293327) find(1096986) add(55505) add(-973279) add(453217) add(78163) add(835183) find(-1063097)
+TestCase-18
+16
+TwoSum() add(150960) add(662510) find(-174224) find(-517641) find(-368053) add(849883) add(603927) add(140371) find(1699331) add(206867) find(-303603) add(311690) add(-915890) find(-512885) find(6724) add(786872)
+TestCase-19
+46
+TwoSum() add(327555) find(-462533) find(-1201807) find(-1337505) find(-816848) find(-398446) find(-1611825) find(593362) add(866933) add(-381404) find(1992483) find(1561526) find(625325) find(1214031) find(-732934) find(413140) find(-1336894) add(217556) add(852716) find(725566) add(-831701) find(1612153) find(-933943) find(632826) add(609660) add(-859412) find(754587) add(472387) find(415392) add(566342) add(-410943) find(38117) find(-1094278) add(537480) find(-632713) add(859419) find(757233) find(6255) find(628260) add(-219671) add(257178) add(627683) add(-781097) add(550904) add(576878) add(959809)
+TestCase-20
+12
+TwoSum() add(-242480) add(-77897) add(107031) find(10788) add(-674639) add(663472) add(-89887) add(353027) find(-343673) add(-84943) find(-581642) find(-241871)
+TestCase-21
+41
+TwoSum() add(-849139) add(887781) find(-1054311) add(-832608) find(-1180520) find(-539513) find(-970655) find(68576) find(1814062) find(-1547086) find(-1749827) add(-168951) find(-1623648) find(968284) add(-662044) find(291802) add(-525360) find(-1383062) find(-166292) find(427305) find(-622262) find(-1429410) find(1738635) add(748617) find(-728767) find(-358065) add(-97052) add(-638240) add(421582) add(612886) find(-186888) find(-1199951) add(-705714) add(751993) find(600196) add(-873083) add(553694) add(-407018) find(-1531394) add(-313747) find(580246)
+TestCase-22
+30
+TwoSum() add(-408689) find(-1781347) add(567953) find(-1323210) add(-37307) find(-1274852) add(266456) find(1423072) find(1712717) find(-1782358) add(-509209) find(-453931) find(-1703515) add(572255) add(-387904) find(377012) add(69189) find(46112) add(464353) find(394211) find(-957246) find(1382553) find(706844) add(-743008) find(-272348) add(114406) add(-190856) add(-640963) add(780048) add(776960)
+TestCase-23
+50
+TwoSum() add(-534193) add(-391293) find(-774389) add(92394) find(-1246158) find(453965) add(309668) find(778580) add(911549) find(823489) add(-263939) find(-1697000) find(80574) add(-389143) find(-428775) add(-230967) add(843882) add(-499872) add(-862994) add(357156) add(598270) add(984958) find(1612176) find(16527) add(-503078) find(-1223962) add(221900) add(280492) find(-190917) find(247574) find(851179) find(1752709) find(1641742) find(731286) find(1320271) add(748778) find(1708631) add(981637) add(252197) find(1208606) add(98206) add(703893) find(691913) find(-1846350) find(1835042) add(974418) find(838004) add(343518) find(-1160338) add(756522)
+TestCase-24
+3
+TwoSum() add(36974) add(-480133) find(1994935)
+TestCase-25
+27
+TwoSum() add(549231) add(515292) add(-875177) add(-108042) find(74041) find(1303273) add(-630754) add(313638) find(-608927) add(920181) add(-281638) add(-171008) find(57456) add(-577150) add(46480) find(-817537) add(-856121) find(1501299) find(-758823) add(701560) find(-1406963) find(1164766) add(12438) add(-507634) add(531717) find(-313890) find(97790)
+TestCase-26
+12
+TwoSum() add(815079) add(795945) find(-1123441) find(-1540597) add(760617) add(-935660) add(760915) add(-139016) find(-1092125) add(845288) find(-1239428) add(930290)
+TestCase-27
+14
+TwoSum() add(-638255) add(957660) find(1340520) add(85351) add(-120132) add(625072) find(-1896604) find(1698837) add(-657120) add(-965102) add(882036) add(310842) add(-502666) find(192483)
+TestCase-28
+6
+TwoSum() add(-736934) find(-1795955) add(833867) add(-815607) find(-1819990) add(76418)
+TestCase-29
+46
+TwoSum() add(275148) add(-358121) find(-771210) add(699767) find(877801) add(-897068) find(-233569) find(40296) add(971794) add(-744483) add(792018) find(59782) find(589236) find(-1914914) find(-66365) find(-609458) add(-761237) add(-366889) find(716908) add(835716) add(966415) find(-1034845) find(321925) add(-576565) find(-1728120) find(-951348) find(902963) add(188229) find(240781) add(-61639) add(737417) add(-900867) find(-1838843) find(66563) find(-795098) add(488378) find(370325) find(117108) find(1624351) find(1837934) add(-85882) find(-1713739) find(-905852) find(-423686) find(578335) find(1616889)
+TestCase-30
+25
+TwoSum() add(514502) add(447433) add(292868) find(-1442711) add(-586131) find(1485652) find(1142991) add(416396) add(-964659) add(821909) find(-630929) find(-821574) find(-177809) add(-669195) add(315334) find(1356970) add(-891597) add(-441073) find(1497286) find(1909444) find(-487713) find(-400156) find(-1789958) find(-379167) find(-153771)
+TestCase-31
+49
+TwoSum() add(167924) find(519736) add(-761037) find(-1676193) find(-349276) add(410348) add(463804) add(392579) add(725196) find(621999) find(-1862099) find(1742056) find(1194254) find(-817743) add(-590776) add(778265) find(-529399) add(474571) add(-96289) add(-106157) add(670074) find(-841469) find(-231276) add(848826) find(234268) add(-86716) add(484639) find(-1973667) find(595477) find(1755529) add(270586) add(-238491) find(149565) add(88240) add(-982843) find(-1843742) add(239816) add(-789147) find(-864344) add(-551067) find(-1090446) find(-788084) add(428435) add(564048) add(-609065) find(-1742808) find(-181665) find(384836) add(530774)
+TestCase-32
+32
+TwoSum() add(183686) add(-404355) add(-913785) find(148364) find(-1263556) find(-300527) add(-343657) find(-856905) add(576460) add(100403) add(901530) find(-1038350) find(788965) find(-1818406) find(1250326) find(-1847116) find(-891437) find(640713) add(-995026) add(-183244) find(-1392733) add(910134) add(-914774) add(443655) add(-600229) add(742173) add(-669533) add(843417) find(1952490) find(-1868029) add(-587843) find(-61001)
+TestCase-33
+2
+TwoSum() add(-835576) find(1157968)
+TestCase-34
+39
+TwoSum() add(-314831) find(406572) find(859367) find(947104) add(-938721) add(708482) find(1623933) find(-652743) add(229100) find(1289892) add(-164797) add(-687942) add(-585079) find(39326) add(-796628) add(513572) find(490732) add(-427534) add(755640) add(343628) find(564150) add(194948) add(-148850) add(324524) find(-209052) find(127026) add(201275) add(433897) find(1644719) add(282713) add(-378983) add(742735) find(-64840) add(-466860) add(-752985) find(-1373293) find(-91452) find(-224191) find(-705312)
+TestCase-35
+18
+TwoSum() add(157616) find(-997849) find(-1531765) find(631628) add(-128992) find(-530975) add(-695405) find(1873365) find(419987) add(851231) find(-337038) find(1543567) add(336586) add(-92919) add(-524104) add(518543) find(-1401114) find(1668334)
+TestCase-36
+42
+TwoSum() add(-60870) find(-618970) find(-568755) add(-24956) add(412703) find(-1704050) add(833291) add(-193782) find(-1751866) find(1920547) find(1234538) find(-1384048) add(893365) add(-578896) find(628033) add(-595599) find(-144574) find(173680) add(-737178) find(-1359215) add(862466) add(-191396) find(1841843) add(-193358) add(-637764) add(-384603) find(-210625) find(1809336) add(-286601) find(-1251812) add(-716922) add(-914368) find(-1683452) find(-751725) add(-508594) add(621919) add(517653) find(1531213) find(-1901761) add(166391) find(1840311) find(91802)
+TestCase-37
+23
+TwoSum() add(-361107) add(-585485) find(-597927) find(55191) find(500275) add(-58531) add(-631141) find(18548) find(1489881) find(-115304) find(1117679) find(-477286) find(225715) add(542787) find(-1791755) find(-1165093) find(-1551298) find(-1935777) add(107833) find(1477930) add(154696) add(391985) find(-654775)
+TestCase-38
+47
+TwoSum() add(-706161) find(529453) add(892624) find(299686) add(265989) find(-1127964) add(-799989) add(-793310) find(-1781217) find(278510) add(-834640) find(1989395) find(-1744902) find(-523178) add(582870) add(228722) add(168425) find(-1839428) find(297583) find(1154521) add(-696392) find(-490571) find(-340192) add(422539) add(775475) add(939029) find(523846) find(-712532) add(-992047) add(-450777) add(887662) add(-647729) find(1513306) add(504521) add(238089) find(1386337) add(16538) add(863933) find(1010982) find(9344) add(-485165) find(-1916815) find(-1150428) find(996629) add(-188453) find(-968752) find(-1664655)
+TestCase-39
+48
+TwoSum() add(-410074) add(819865) find(-813480) add(417636) add(-714548) find(-1475518) find(467035) add(975437) find(1900947) find(-1291136) find(1490299) find(840771) find(964814) add(-412500) add(864865) add(96486) find(1632949) find(-899303) find(33608) find(1159145) find(-1321342) find(511628) add(4262) add(838285) find(-1824076) add(612360) find(-1789497) find(-1804205) add(907908) find(-1827852) add(802498) add(266769) add(-511754) add(279738) add(26751) find(1324337) find(-391141) find(-1672579) find(1379424) find(1922989) add(226468) find(598854) find(-1932312) add(921027) find(207789) add(-762569) find(345987) add(-945387)
+TestCase-40
+19
+TwoSum() add(-291012) add(695300) add(407259) find(-985198) add(505788) find(-1324975) find(792588) find(-1428164) find(-1165943) add(296759) add(119864) add(478243) find(-1991623) add(-452989) find(-988676) find(-1245781) add(827635) find(1073962) add(-184737)
+TestCase-41
+49
+TwoSum() add(460360) find(-1393356) find(1280954) find(-741721) find(416257) find(1667319) find(957890) find(-1684520) add(818302) find(-1830416) find(-520500) find(1063690) add(-589568) add(497954) add(450920) find(-534866) find(1073198) find(1045551) find(1351359) find(1152248) find(-1880858) find(-83960) add(-489051) add(416327) add(-137141) find(-733658) find(609320) add(955156) add(-890049) find(-1141017) add(-723318) add(-835821) add(-78932) add(411395) find(556688) add(-3256) find(-1853665) find(261264) find(-220537) find(-1678996) add(389939) find(426638) add(-653310) find(-1145413) find(13767) find(520088) find(-1506555) add(-293935) add(38853)
+TestCase-42
+23
+TwoSum() add(-640385) find(-1899756) find(278999) find(1705325) find(1210350) find(-768655) find(489027) add(-226940) find(597326) add(822711) add(-136658) find(-21538) add(-758545) add(19558) find(303594) add(-119639) add(868613) find(1228036) add(-271031) find(-661376) find(-1942922) add(864027) find(-500034)
+TestCase-43
+38
+TwoSum() add(-568913) find(1070023) find(-26192) find(-777201) add(-411200) find(-720147) add(-398376) find(-937196) find(1597979) find(1894824) add(524346) find(378214) add(-670252) find(-609400) add(-287814) add(177047) find(153717) find(601996) find(1655733) find(-744790) add(669844) find(540529) add(945086) find(1518958) add(28457) add(522625) add(-32264) add(330091) add(-805468) find(-1291545) find(-961200) find(-736448) add(-196226) add(606962) find(-605335) find(65734) find(75964) add(-156733)
+TestCase-44
+49
+TwoSum() add(333932) find(-1359540) add(-664084) find(628265) find(-614217) add(791653) find(-1826287) find(-1996675) find(-1074206) find(1708030) add(409231) add(-28127) find(-874568) add(-201751) add(827010) add(895645) add(420872) find(516950) find(-1986033) add(12448) add(859903) find(1128310) find(-1865283) add(-52397) add(-465105) find(503634) find(411739) find(-1461179) find(-1633761) find(-195604) find(915672) add(298131) add(66075) add(512679) find(1281299) add(-644167) find(1344163) find(731591) find(1517956) add(160020) find(1195916) find(1591328) add(757879) add(-6972) add(219761) find(1490021) find(1403317) add(565740) add(652429)
+TestCase-45
+3
+TwoSum() add(-56013) add(-25593) add(-784201)
+TestCase-46
+18
+TwoSum() add(933377) add(-590361) add(986623) find(368267) find(-57552) find(823494) find(1187879) add(-541739) add(582189) add(-75532) find(-235519) add(-17155) add(559598) add(-597523) add(723598) add(42942) find(482671) find(741664)
+TestCase-47
+10
+TwoSum() add(593394) find(1645310) find(1065580) add(-773639) add(-657623) add(-423089) find(-188924) add(-348510) add(-500457) find(-1962655)
+TestCase-48
+39
+TwoSum() add(-898029) add(568560) find(-24630) add(126164) add(287610) add(603623) find(-534530) find(1343104) find(-655253) add(383421) find(-995024) find(846695) add(-331614) add(-98173) find(929763) find(1422795) add(-502872) add(901645) add(-371585) find(-781551) find(-1583351) add(-745470) add(846539) add(-858416) find(-823815) add(441645) find(-1730866) find(1752297) find(-1550862) find(767195) find(-1138345) find(937453) add(-875744) add(669173) find(1195156) add(37972) add(-64808) add(-84434) add(-810018)
+TestCase-49
+35
+TwoSum() add(300531) add(-805029) add(337892) add(599947) add(372914) find(-1040869) find(-526405) add(-186879) find(1111598) find(-1402679) find(193131) find(-76445) find(1879317) add(536368) add(704779) find(1025771) find(-54091) find(846522) add(-920591) find(-1159893) add(-568204) find(-1138335) find(-1200100) find(-1166149) add(839248) add(218512) find(996794) add(-649851) find(1307370) add(-592295) find(1200040) add(-641904) add(-715346) find(705105) find(801215)
+TestCase-50
+12
+TwoSum() add(-669244) add(886299) add(969939) find(-1125782) add(-565762) add(-126570) add(403063) find(-960295) find(-763429) add(-123697) find(-42356) find(1253101)
+TestCase-51
+45
+TwoSum() add(453257) find(-1880286) add(773857) add(-303832) add(-7817) add(-418257) add(412003) find(1080771) add(819409) add(-192690) find(-623384) find(-1643986) add(-571078) add(-319154) find(-870638) find(699500) add(-195501) add(709625) find(1356601) find(-689596) find(-1392379) add(-325158) find(-960359) find(952877) find(143138) find(-1350782) add(651479) add(-743117) find(-1261262) add(-359911) add(854192) add(-708329) add(71326) find(-1838571) find(-1126181) find(357467) find(797972) find(-636558) find(1505887) find(1933038) add(-682698) add(-682238) find(-423228) add(-802762) add(-557749)
+TestCase-52
+8
+TwoSum() add(-191505) add(869739) find(1743338) find(380455) find(1194559) add(-468568) find(18248) add(825750)
+TestCase-53
+1
+TwoSum() add(-182750)
+TestCase-54
+31
+TwoSum() add(-964765) find(1297526) find(-1358721) find(970106) add(-727972) add(-231164) find(-1740915) find(-1647659) find(-500954) add(-210373) find(64612) find(-279008) add(-875000) add(-597985) add(219645) add(862440) add(719334) find(1625257) find(-99714) find(-698562) add(-862609) add(679266) add(-705219) find(923178) add(-876278) add(922132) add(758798) find(1778142) add(206288) add(-860038) find(-635651)
+TestCase-55
+19
+TwoSum() add(255457) add(138027) add(-87287) find(474433) find(333717) find(1581575) add(-761637) add(-41480) add(719824) find(1501741) add(353820) find(-795863) find(1739940) find(782985) add(-369829) add(428909) find(-1928856) add(-669418) add(242152)
+TestCase-56
+42
+TwoSum() add(-894011) add(-151658) find(178834) add(-309079) find(1120436) find(234417) add(367303) find(397582) find(-496570) add(350072) find(950349) add(781397) find(241795) find(-1612482) add(333032) add(659257) add(792235) find(-463743) find(-935195) add(785421) find(-678326) add(680446) add(683833) find(1200104) find(-1864190) add(418365) add(801151) add(716608) add(72634) add(302188) add(-100379) add(-718265) find(225316) find(-1055447) find(650506) find(1419218) add(-226862) add(798188) find(-227847) add(-826470) find(-1995406) find(1006533)
+TestCase-57
+9
+TwoSum() add(512318) add(260339) add(-698064) find(-1403036) add(-928186) find(-1043125) add(15936) find(-664300) add(845710)
+TestCase-58
+28
+TwoSum() add(894427) find(895204) find(-852301) add(-227491) add(-690680) find(1652914) add(96580) add(233065) find(-924759) find(-566448) find(751195) add(-826315) add(700909) find(1898848) add(729084) add(863409) find(-1241880) find(132764) find(-1590657) find(170891) add(-179267) add(939865) find(1704474) find(-1998426) find(-1974078) find(-1564874) find(-158141) find(1187492)
+TestCase-59
+43
+TwoSum() add(-116142) add(974159) find(-1679883) add(-824864) add(607205) find(283538) find(-74827) find(491275) add(553593) add(-821759) add(-857205) find(778766) add(805225) add(-887839) find(1955455) find(1777284) find(-632718) add(-60501) find(1534359) find(-465239) add(-692892) add(-371572) add(-748938) add(-909230) find(-1677958) find(-1582755) find(-1332770) find(-1427776) find(1695662) find(388618) find(-572312) find(436585) find(1434364) add(-771368) find(-645552) add(-336107) find(-310732) find(-162074) find(757122) add(363521) find(1585371) add(515579) find(784941)
+TestCase-60
+22
+TwoSum() add(887415) find(895351) find(-1071191) add(296302) find(-677334) add(-910619) add(-219658) add(-390214) find(-560956) find(793320) find(-598167) add(677683) add(58012) add(280617) find(1567524) add(98537) find(-897991) find(1561643) add(222502) add(202518) find(-818321) add(704995)
+TestCase-61
+31
+TwoSum() add(-709266) add(841256) add(-702406) find(1787809) find(-636854) add(861293) find(789703) add(240644) add(-739908) find(-325220) find(464201) add(-946032) add(-912586) add(761251) add(-69469) add(-463890) find(710108) find(-1076583) find(-1134696) add(617839) find(695787) find(-1590038) add(-467030) add(166624) find(764967) find(-1633510) add(710803) add(508618) add(-637911) find(247822) find(-947715)
+TestCase-62
+15
+TwoSum() add(-647212) find(-326393) find(1635043) find(1900001) find(1656228) find(1685525) find(-295772) find(1966887) add(-80571) add(572725) add(932964) find(-1047050) find(1250036) find(-1889508) find(-1771360)
+TestCase-63
+41
+TwoSum() add(672092) find(-184511) add(12371) add(365226) add(-495010) find(-1912557) add(-844206) find(-264708) find(764702) find(625525) find(-883692) find(-1020961) add(-817869) add(-224600) find(1355270) add(552373) find(-1265643) add(-21615) find(-29180) add(112282) add(961691) add(-823767) add(-834455) add(250236) find(335523) add(-858857) find(-1472886) find(-1437773) find(528108) add(-726819) add(930187) find(-715091) add(-843641) add(-311683) add(678161) find(1867080) add(644988) find(-1493772) find(-1590342) find(-391268) find(382483)
+TestCase-64
+31
+TwoSum() add(-167669) add(598069) add(918167) add(-455036) add(-5076) find(-153622) add(187964) find(1194070) find(-100392) find(-743117) find(539122) add(576040) add(-414654) find(1882191) find(76632) find(-221343) add(-309303) find(1139193) add(227236) find(-1732930) find(-1422124) find(1024657) add(-496646) add(-996071) find(981166) add(94855) find(555303) find(-1662794) add(810492) add(-383526) find(-12946)
+TestCase-65
+13
+TwoSum() add(749909) find(-1943375) add(354795) find(-502323) add(260238) find(1124861) add(-579680) find(-1860491) find(-485324) add(-901084) find(895284) find(-1796812) add(-481235)
+TestCase-66
+34
+TwoSum() add(-425769) add(541673) add(346289) add(-934047) find(1521542) find(1163910) add(827982) add(-189921) add(-529200) add(-774690) find(834697) find(-949522) add(-917706) find(675307) find(-587162) add(-805028) add(30635) find(136277) add(-108020) find(1452194) find(-536325) find(-888111) find(-292126) add(493645) add(-940952) add(961431) find(-1474332) add(749911) add(954117) find(822186) find(-1242805) find(-1928623) find(-1575424) add(293405)
+TestCase-67
+39
+TwoSum() add(-412899) find(-52316) find(683727) find(1563401) find(89210) add(-946453) add(-183340) add(-372539) find(1636454) find(-794419) add(560917) find(1480095) find(156784) add(-285764) add(-280512) add(-950832) add(710855) find(342999) find(112141) find(-1763266) add(946922) find(-1685867) find(262395) add(-622243) find(-746932) find(836873) add(438700) find(250088) find(-1931081) find(-554584) add(-289072) find(-257694) add(383807) add(-95276) add(913029) find(1378310) add(-320893) find(-500401) find(-198759)
+TestCase-68
+50
+TwoSum() add(265056) add(781946) find(-1469231) find(-202807) add(864121) add(-133043) add(-809385) find(1221480) find(-989050) find(1459446) find(253954) add(720475) find(-834357) find(-1791326) add(200554) find(-679587) find(1701015) add(136816) find(869371) find(-649265) find(1367960) find(-272534) find(-1337834) add(743820) add(-391476) find(1754986) find(221481) add(-848855) find(-1659058) find(522506) find(1994518) find(-1711886) add(381167) find(-1439079) add(908259) find(913949) add(269088) find(-1033470) find(1774214) add(-879203) add(-426773) add(414974) find(-760521) find(1892459) add(-557620) add(271811) add(823125) find(188667) add(-708948) find(-876435)
+TestCase-69
+18
+TwoSum() add(627717) find(1670649) find(105831) find(1977478) add(-583111) find(813980) find(182731) add(246667) add(-668446) find(889918) find(-810611) find(-1475978) add(-961423) find(-32930) find(-1111193) add(-454098) find(1742668) find(1232295)
+TestCase-70
+14
+TwoSum() add(-426193) find(-1750820) add(473105) add(-81140) find(834582) add(-476471) add(-800999) add(-841049) find(-739069) find(-501694) find(644862) find(1079505) find(-1885658) add(757192)
+TestCase-71
+8
+TwoSum() add(697244) add(987656) find(-337591) find(1072467) add(785986) find(-657749) find(-627202) add(783202)
+TestCase-72
+42
+TwoSum() add(770231) find(644209) find(-1593679) find(645180) find(-1664336) find(135058) add(694799) find(1304892) add(649413) add(-942220) find(-1625720) add(-389487) find(-758638) find(-878879) add(-883815) find(-128775) add(-227922) find(1290551) add(-282144) add(-437557) find(138426) find(-1789072) find(-33781) add(604000) add(-286881) add(599884) add(646079) add(-654593) add(-160409) add(381585) find(752432) add(-988065) add(-576784) find(108551) find(265999) add(-244855) find(50349) find(-248970) find(1742401) add(993949) find(548090) add(804782)
+TestCase-73
+41
+TwoSum() add(-622665) find(326770) add(799130) find(1145626) find(-1611104) add(-914503) add(261465) find(-1099445) find(-971942) add(834421) add(-79787) find(-1508967) add(18951) add(-43359) find(1252834) add(-253980) add(-610186) add(291879) find(-513187) find(-210500) find(-66300) add(345239) add(63645) add(626354) add(428436) find(-633524) find(401180) find(-1054074) add(-824526) find(506037) find(-304193) find(-1904228) add(845552) find(-356987) add(-78878) find(1825044) add(-532146) find(-345322) add(-23280) add(802282) add(730898)
+TestCase-74
+26
+TwoSum() add(-758788) find(-135932) add(109291) find(1900896) add(-585555) find(791762) find(242515) find(1952096) add(-428803) find(-1434371) add(-511690) add(906460) find(1922346) find(1187275) add(-656317) find(-217032) find(190540) add(16614) add(-207621) add(-636110) add(173610) add(-576901) find(-386969) add(594395) find(1419122) add(509219)
+TestCase-75
+8
+TwoSum() add(816001) add(-80569) add(-619637) add(-587954) find(-1957051) add(-319268) find(-931184) find(1157049)
+TestCase-76
+31
+TwoSum() add(-114026) find(211482) add(-772211) add(330389) add(-788744) find(-1061627) find(1083657) add(-53657) find(583210) add(693758) add(-921908) add(106812) find(395585) add(935945) add(-681431) find(-1041084) add(198007) add(790549) add(-160273) find(1994102) find(-1888433) find(566747) find(-1634090) add(946534) add(-90028) add(-946243) add(-774512) add(-615486) find(1468592) find(1959491) find(1773539)
+TestCase-77
+48
+TwoSum() add(-897335) add(-231598) add(-139929) find(-700851) find(-1047877) add(468296) find(-818768) find(-737068) find(1969473) find(366311) add(-414544) find(-1208927) find(-1739992) add(-648897) find(-500828) add(461709) find(-480789) find(-463478) find(834046) find(1707980) add(-435248) find(1723793) find(-286330) find(1619028) find(542359) find(-485322) find(-1737807) find(-1256695) find(571166) add(809381) add(-412997) add(-49002) add(-259232) add(-228357) add(-617614) add(-445697) find(412115) add(-220522) add(753451) find(-1559370) add(692305) find(1457231) find(-235252) find(-583688) find(1636575) add(773144) find(-1684537) find(408496)
+TestCase-78
+35
+TwoSum() add(70724) find(-330316) find(-1770985) find(-958306) add(764999) add(-102750) add(-75809) find(236527) add(-925157) add(-442809) find(196038) add(-472155) find(-1447473) add(939639) add(-558093) add(-701602) find(1616941) find(-873036) add(-284831) find(-937660) add(-892409) add(80588) find(855893) find(-1738778) add(667534) find(-833384) add(-174066) add(853975) find(1288689) add(-721135) add(738417) add(-968303) add(440019) find(-186869) add(-860618)
+TestCase-79
+45
+TwoSum() add(985248) add(646765) find(-1213062) add(513737) add(99841) add(-705941) find(-448025) add(-277406) find(-1161774) find(1838585) add(7465) add(354529) add(-139784) find(1637537) find(-255488) find(962903) add(428320) add(-550129) add(-164442) add(376026) find(-1415640) find(856736) add(-45473) add(-656643) add(343692) add(783586) add(-548971) add(975907) add(-2680) add(667894) find(-1002227) find(-1158745) find(1609471) find(-1470931) find(90910) find(1015110) add(-321889) find(-1177640) find(-484513) add(819156) find(1850789) find(-1547544) add(664463) add(-199371) find(-1376998)
+TestCase-80
+29
+TwoSum() add(-85756) find(-11833) add(-501090) add(-596390) add(172937) add(-3344) add(131033) find(-1023122) find(-153005) find(896738) find(1432632) add(228633) find(-371295) find(-1848344) find(1113845) find(211672) find(1712930) find(934006) find(-866591) add(-488938) find(-1990627) find(-1261568) find(-1117539) add(-572462) add(209858) find(-319778) find(-1177753) find(-390009) add(-723978)
+TestCase-81
+45
+TwoSum() add(-353477) add(-150373) add(26423) find(-1330903) find(-1710959) find(-1775153) add(270141) add(-336465) add(-244624) add(928649) find(1584543) add(-131799) add(-567789) add(-640015) find(-1073973) find(-1655479) add(258678) add(266821) add(428906) add(253043) add(690093) find(-215292) find(469723) find(119990) find(210987) find(1796584) find(8341) find(-1430471) add(-665491) find(-734575) add(-477743) add(-324626) add(23666) find(-1841723) find(726102) add(413669) add(-802474) find(-309002) find(-454444) add(-676998) find(-1200701) find(1370681) find(28859) add(403721) find(461250)
+TestCase-82
+29
+TwoSum() add(-147057) find(1535974) add(758599) find(443199) add(-935500) find(367791) add(464728) find(-989888) add(-359283) add(128195) find(-11373) add(682768) add(-803165) find(-1309947) find(-1720308) add(83973) find(-645187) find(1058945) find(1644381) find(219167) find(-1518293) add(804398) find(-1162665) add(900547) find(-966420) find(-626196) add(455265) find(-1863342) add(747866)
+TestCase-83
+18
+TwoSum() add(-817907) find(747815) find(-725821) find(1796961) add(231791) find(-1495512) add(-4361) add(-735198) find(-731772) add(-570085) add(706089) add(-762405) add(477831) add(-176105) find(825912) find(-586080) add(139340) find(588888)
+TestCase-84
+8
+TwoSum() add(-434940) add(424526) find(-985761) find(97542) add(-38357) find(723575) find(1639343) find(-421797)
+TestCase-85
+4
+TwoSum() add(-281749) add(479555) find(1835178) add(672121)
+TestCase-86
+13
+TwoSum() add(-933481) add(925524) add(-153013) find(1927715) add(-681719) find(1151623) add(153691) find(1942582) add(656938) add(933877) add(655973) add(-334751) add(-156793)
+TestCase-87
+48
+TwoSum() add(498108) add(424470) find(450404) find(654461) find(612170) find(-1980269) add(-17572) find(-1398982) find(-1201687) add(-903590) find(1823384) add(209685) add(-876077) add(-995801) add(-387073) find(-1507753) find(-1242593) find(463923) add(-262492) add(-995220) add(-140129) add(-302344) add(-538523) find(1105310) add(-33272) find(-449200) add(13981) find(-18140) find(-1055820) find(735968) find(-872851) add(-937691) add(89038) find(1269793) find(826137) find(1927849) find(-1975957) add(745388) add(-954857) add(-658853) add(-545583) find(-1141905) add(999219) find(1430538) find(-1059561) find(1974894) find(-1461115) find(289948)
+TestCase-88
+45
+TwoSum() add(913075) find(-896623) find(1723041) add(23352) find(-1038548) add(837055) add(-70953) find(-1439847) find(78426) find(1570602) add(37006) add(-437341) find(-434123) find(-1025788) find(-1432318) find(-202641) add(936434) find(1468564) find(963464) add(712642) find(-896174) find(-1582548) add(847882) find(1249661) add(-583517) find(-215016) add(725857) add(-520833) add(-169657) add(317192) add(-327480) add(447019) find(565258) find(-173151) add(-386942) add(603535) add(-243679) find(323617) add(18370) find(1681817) add(-137410) add(140720) add(675030) find(1641796) find(-59327)
+TestCase-89
+7
+TwoSum() add(-514996) add(-315303) add(-189201) find(-1776928) find(1935332) find(1572510) find(638235)
+TestCase-90
+7
+TwoSum() add(414427) add(-576192) find(-937086) find(-1727960) add(-397892) add(272643) find(-89649)
+TestCase-91
+10
+TwoSum() add(-322359) add(394393) find(-730878) add(27994) find(937467) find(-105400) find(-41047) add(811765) add(328569) add(319425)
+TestCase-92
+42
+TwoSum() add(846189) add(-503080) find(1870232) find(-235904) find(767088) add(489089) find(-1361278) find(-798602) add(-331549) add(61086) find(1823692) add(-996031) find(-1633727) add(123118) find(668502) add(38517) find(1602836) add(-802992) add(-101735) find(1019852) find(-144577) add(788795) add(-784746) add(-407780) find(-788524) find(-997800) add(658675) find(-393891) add(783777) find(353054) find(710633) add(-197799) find(1502096) find(1466338) find(-773378) find(-790135) find(315210) find(-1318065) add(-418092) add(951729) add(610171) find(-580482)
+TestCase-93
+34
+TwoSum() add(-746837) find(-46967) find(390114) add(894806) find(1673675) find(1099770) add(-64771) find(-609387) find(623327) add(451829) find(-900072) find(-1136173) find(51601) find(-740800) add(240908) find(-1982734) find(439726) add(-546893) find(-1116343) find(-786726) add(894876) find(-1413173) find(1235009) find(-773121) find(-1302267) add(-639209) add(838868) find(1952215) add(33212) add(-919646) find(684650) find(-1957302) find(602068) add(-16864)
+TestCase-94
+37
+TwoSum() add(444180) find(-507442) find(587307) find(-969215) add(-285534) add(-982668) add(216835) find(1826590) add(577496) add(-657972) find(-1175496) add(180747) add(-360073) add(-8210) add(489698) find(1688017) add(356715) add(91221) add(-566857) add(-435468) add(188395) add(-180642) add(-194082) add(47917) add(863218) add(248199) find(-45364) add(530302) find(128907) add(-139079) add(-597908) add(-721771) add(-162006) find(1419333) add(-103203) find(805569) add(-975501)
+TestCase-95
+37
+TwoSum() add(680079) add(578690) find(-1118735) add(928177) add(-431889) add(544554) find(102441) add(-306382) find(-1470169) find(-1756499) find(745127) find(292954) add(990202) add(301930) find(544279) find(-868391) add(-672161) add(-932500) add(884960) add(429505) find(829057) find(395963) find(1538432) find(-205264) add(357222) add(586453) add(-770073) find(-921903) add(-702612) add(-735733) find(-598156) find(-316352) find(1713540) find(-1322961) find(1656606) add(-106186) find(-1292743)
+TestCase-96
+11
+TwoSum() add(477431) add(-337763) find(1333202) add(743924) add(-888993) find(-1535259) add(-74810) add(585919) find(-1499174) add(-746178) add(-874687)
+TestCase-97
+1
+TwoSum() add(986486)
+TestCase-98
+37
+TwoSum() add(-686279) add(406292) find(700890) find(533138) add(-958313) add(606526) find(1059157) find(409553) find(-247624) find(810365) find(1752548) add(-392986) find(1637813) find(1317420) find(-516345) find(308811) add(29897) find(1099395) add(115132) add(703280) add(639773) find(-497285) add(-687022) find(1939489) add(-808510) find(497768) add(-889662) add(226932) find(-1875534) add(-607225) find(389296) find(965707) add(-944229) add(194656) find(-894027) find(1702544) add(-369729)
+TestCase-99
+40
+TwoSum() add(490844) add(-927855) find(-1641404) add(-902773) find(-1417796) find(-1285926) find(1020930) add(-394195) add(657751) find(-1128457) add(694878) add(131845) find(-130131) add(91409) find(-898711) add(334552) add(407171) add(631942) find(-86051) find(-929292) find(-867276) find(703958) find(-1165385) find(-514146) add(-102053) add(-726533) find(-1838597) add(556800) find(-1585464) add(805841) find(827665) find(1610377) add(982830) add(-36062) find(-1245879) add(678797) find(1992068) find(-34423) find(-1431681) find(-119981)
+TestCase-100
+21
+TwoSum() add(-704948) find(21792) find(853422) find(1889382) find(-1717651) find(-1815837) find(504593) find(1544749) find(1752358) find(854717) add(302941) find(-1878191) find(-231175) find(-764140) add(-13410) find(-265167) add(823756) find(1887666) add(790277) find(-1894175) find(1524497)
+TestCase-101
+6
+TwoSum() add(2) add(6) add(8) find(10) find(12)
+TestCase-102
+7
+TwoSum() add(-1) add(0) add(1) add(3) find(2) find(4)
+TestCase-103
+7
+TwoSum() add(4) add(7) add(11) add(15) find(18) find(20)
+TestCase-104
+7
+TwoSum() add(0) add(0) add(5) add(10) find(0) find(15)
