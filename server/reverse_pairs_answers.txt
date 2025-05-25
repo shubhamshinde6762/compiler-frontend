@@ -1,0 +1,63 @@
+Example case with 5 elements: 3
+Example case with 5 elements: 0
+Example case with 5 elements: 2
+Example case with 5 elements: 2
+Edge case 1 with 1 elements: 0
+Edge case 2 with 10 elements: 0
+Edge case 3 with 15 elements: 105
+Edge case 4 with 15 elements: 0
+Edge case 5 with 16 elements: 56
+Edge case 6 with 21 elements: 20
+Edge case 7 with 21 elements: 185
+Edge case 8 with 20 elements: 0
+Edge case 9 with 8 elements: 6
+Edge case 10 with 5 elements: 0
+Edge case 11 with 4 elements: 0
+Edge case 12 with 8 elements: 23
+Edge case 13 with 6 elements: 0
+Edge case 14 with 2 elements: 0
+Edge case 15 with 4 elements: 3
+Edge case 16 with 4 elements: 0
+Edge case 17 with 4 elements: 0
+Sorted ascending array with 10 elements: 11
+Sorted descending array with 10 elements: 36
+Sorted ascending array with 20 elements: 20
+Sorted descending array with 20 elements: 184
+Sorted ascending array with 50 elements: 206
+Sorted descending array with 50 elements: 1138
+Random array with 5 elements: 8
+Random array with 5 elements: 2
+Random array with 5 elements: 6
+Random array with 10 elements: 27
+Random array with 10 elements: 24
+Random array with 10 elements: 14
+Random array with 15 elements: 44
+Random array with 15 elements: 55
+Random array with 15 elements: 81
+Random array with 20 elements: 134
+Random array with 20 elements: 102
+Random array with 20 elements: 119
+Random array with 30 elements: 210
+Random array with 30 elements: 190
+Random array with 30 elements: 191
+Random array with 50 elements: 527
+Random array with 50 elements: 628
+Random array with 50 elements: 669
+Random array with 75 elements: 1479
+Random array with 75 elements: 1310
+Random array with 75 elements: 1493
+Random array with 100 elements: 2627
+Random array with 100 elements: 2389
+Random array with 100 elements: 2593
+Tricky case 1 with 8 elements: 10
+Tricky case 2 with 8 elements: 14
+Tricky case 3 with 8 elements: 12
+Tricky case 4 with 7 elements: 15
+Tricky case 5 with 5 elements: 10
+Tricky case 6 with 4 elements: 4
+Tricky case 7 with 7 elements: 12
+Tricky case 8 with 11 elements: 0
+Medium-large case 1 with 2000 elements: 1115775
+Medium-large case 2 with 2000 elements: 0
+Medium-large case 3 with 2000 elements: 987255
+Large case with 100000 elements (potential TLE): 2483197664
